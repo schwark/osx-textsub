@@ -7515,6 +7515,10 @@
     "enabled": true,
     "replacement": "नहाना"
   },
+  "rs.": {
+    "enabled": true,
+    "replacement": "₹"
+  },
   "saikdon": {
     "enabled": true,
     "replacement": "सैकड़ों"
