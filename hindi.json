@@ -1,0 +1,7290 @@
+{
+  "aa": {
+    "enabled": true,
+    "replacement": "आ"
+  },
+  "aadab": {
+    "enabled": true,
+    "replacement": "आदाब"
+  },
+  "aadat": {
+    "enabled": true,
+    "replacement": "आदत"
+  },
+  "aadesh": {
+    "enabled": true,
+    "replacement": "आदेश"
+  },
+  "aadha": {
+    "enabled": true,
+    "replacement": "आधा"
+  },
+  "aadhi": {
+    "enabled": true,
+    "replacement": "आधी"
+  },
+  "aadmi": {
+    "enabled": true,
+    "replacement": "आदमी"
+  },
+  "aaee": {
+    "enabled": true,
+    "replacement": "आयी"
+  },
+  "aaenge": {
+    "enabled": true,
+    "replacement": "आयेंगे"
+  },
+  "aage": {
+    "enabled": true,
+    "replacement": "आगे"
+  },
+  "aai": {
+    "enabled": true,
+    "replacement": "आयी"
+  },
+  "aaine": {
+    "enabled": true,
+    "replacement": "आईने"
+  },
+  "aaj": {
+    "enabled": true,
+    "replacement": "आज"
+  },
+  "aajkal": {
+    "enabled": true,
+    "replacement": "आज कल"
+  },
+  "aake": {
+    "enabled": true,
+    "replacement": "आके"
+  },
+  "aakhir": {
+    "enabled": true,
+    "replacement": "आखिर"
+  },
+  "aalu": {
+    "enabled": true,
+    "replacement": "आलू"
+  },
+  "aana": {
+    "enabled": true,
+    "replacement": "आना"
+  },
+  "aane": {
+    "enabled": true,
+    "replacement": "आने"
+  },
+  "aani": {
+    "enabled": true,
+    "replacement": "आनि"
+  },
+  "aankhen": {
+    "enabled": true,
+    "replacement": "आँखें"
+  },
+  "aankhon": {
+    "enabled": true,
+    "replacement": "आंखों"
+  },
+  "aao": {
+    "enabled": true,
+    "replacement": "आओ"
+  },
+  "aaoge": {
+    "enabled": true,
+    "replacement": "आओगे"
+  },
+  "aaogi": {
+    "enabled": true,
+    "replacement": "आओगी"
+  },
+  "aap": {
+    "enabled": true,
+    "replacement": "आप"
+  },
+  "aapka": {
+    "enabled": true,
+    "replacement": "आपका"
+  },
+  "aapke": {
+    "enabled": true,
+    "replacement": "आपके"
+  },
+  "aapki": {
+    "enabled": true,
+    "replacement": "आपकी"
+  },
+  "aapko": {
+    "enabled": true,
+    "replacement": "आपको"
+  },
+  "aapne": {
+    "enabled": true,
+    "replacement": "आप्ने"
+  },
+  "aapse": {
+    "enabled": true,
+    "replacement": "आपसे"
+  },
+  "aaraam": {
+    "enabled": true,
+    "replacement": "आराम"
+  },
+  "aaram": {
+    "enabled": true,
+    "replacement": "आराम"
+  },
+  "aarti": {
+    "enabled": true,
+    "replacement": "आरती"
+  },
+  "aarzoo": {
+    "enabled": true,
+    "replacement": "आरज़ू"
+  },
+  "aata": {
+    "enabled": true,
+    "replacement": "आता"
+  },
+  "aate": {
+    "enabled": true,
+    "replacement": "आते"
+  },
+  "aati": {
+    "enabled": true,
+    "replacement": "आती"
+  },
+  "aatma": {
+    "enabled": true,
+    "replacement": "आत्मा"
+  },
+  "aaun": {
+    "enabled": true,
+    "replacement": "आऊं"
+  },
+  "aaunga": {
+    "enabled": true,
+    "replacement": "आऊंगा"
+  },
+  "aaya": {
+    "enabled": true,
+    "replacement": "आया"
+  },
+  "aaye": {
+    "enabled": true,
+    "replacement": "आये"
+  },
+  "aayee": {
+    "enabled": true,
+    "replacement": "आयी"
+  },
+  "aayega": {
+    "enabled": true,
+    "replacement": "आयेगा"
+  },
+  "aayegi": {
+    "enabled": true,
+    "replacement": "आयेगी"
+  },
+  "aayenge": {
+    "enabled": true,
+    "replacement": "आयेंगे"
+  },
+  "aayi": {
+    "enabled": true,
+    "replacement": "आयी"
+  },
+  "ab": {
+    "enabled": true,
+    "replacement": "अब"
+  },
+  "abe": {
+    "enabled": true,
+    "replacement": "अबे"
+  },
+  "abhi": {
+    "enabled": true,
+    "replacement": "अभी"
+  },
+  "accha": {
+    "enabled": true,
+    "replacement": "अच्छा"
+  },
+  "acche": {
+    "enabled": true,
+    "replacement": "अच्छे"
+  },
+  "acchi": {
+    "enabled": true,
+    "replacement": "अच्छी"
+  },
+  "acha": {
+    "enabled": true,
+    "replacement": "अच्छा"
+  },
+  "achaar": {
+    "enabled": true,
+    "replacement": "अचार"
+  },
+  "achaari": {
+    "enabled": true,
+    "replacement": "अचारी"
+  },
+  "achar": {
+    "enabled": true,
+    "replacement": "अचार"
+  },
+  "achari": {
+    "enabled": true,
+    "replacement": "अचारी"
+  },
+  "ache": {
+    "enabled": true,
+    "replacement": "अच्छे"
+  },
+  "achi": {
+    "enabled": true,
+    "replacement": "अच्छी"
+  },
+  "ada": {
+    "enabled": true,
+    "replacement": "अदा"
+  },
+  "adha": {
+    "enabled": true,
+    "replacement": "आधा"
+  },
+  "adhi": {
+    "enabled": true,
+    "replacement": "आधी"
+  },
+  "adrak": {
+    "enabled": true,
+    "replacement": "अदरक"
+  },
+  "agar": {
+    "enabled": true,
+    "replacement": "अगर"
+  },
+  "agla": {
+    "enabled": true,
+    "replacement": "अगला"
+  },
+  "agle": {
+    "enabled": true,
+    "replacement": "अगले"
+  },
+  "agli": {
+    "enabled": true,
+    "replacement": "अगली"
+  },
+  "aisa": {
+    "enabled": true,
+    "replacement": "ऐसा"
+  },
+  "aise": {
+    "enabled": true,
+    "replacement": "ऐसे"
+  },
+  "aisi": {
+    "enabled": true,
+    "replacement": "ऐसी"
+  },
+  "aji": {
+    "enabled": true,
+    "replacement": "अजी"
+  },
+  "akela": {
+    "enabled": true,
+    "replacement": "अकेला"
+  },
+  "akele": {
+    "enabled": true,
+    "replacement": "अकेले"
+  },
+  "akeli": {
+    "enabled": true,
+    "replacement": "अकेली"
+  },
+  "allah": {
+    "enabled": true,
+    "replacement": "अल्लाह"
+  },
+  "aloo": {
+    "enabled": true,
+    "replacement": "आलू"
+  },
+  "altoo": {
+    "enabled": true,
+    "replacement": "आलतू"
+  },
+  "alu": {
+    "enabled": true,
+    "replacement": "आलू"
+  },
+  "anda": {
+    "enabled": true,
+    "replacement": "अंडा"
+  },
+  "andar": {
+    "enabled": true,
+    "replacement": "अन्दर"
+  },
+  "ande": {
+    "enabled": true,
+    "replacement": "अंडे"
+  },
+  "andhera": {
+    "enabled": true,
+    "replacement": "अँधेरा"
+  },
+  "andhere": {
+    "enabled": true,
+    "replacement": "अँधेरे"
+  },
+  "anek": {
+    "enabled": true,
+    "replacement": "अनेक"
+  },
+  "aogi": {
+    "enabled": true,
+    "replacement": "आओगी"
+  },
+  "apka": {
+    "enabled": true,
+    "replacement": "आपका"
+  },
+  "apmaan": {
+    "enabled": true,
+    "replacement": "अपमान"
+  },
+  "apman": {
+    "enabled": true,
+    "replacement": "अपमान"
+  },
+  "apna": {
+    "enabled": true,
+    "replacement": "अपना"
+  },
+  "apne": {
+    "enabled": true,
+    "replacement": "अप्ने"
+  },
+  "apni": {
+    "enabled": true,
+    "replacement": "अपनी"
+  },
+  "ardhangini": {
+    "enabled": true,
+    "replacement": "अर्धांगिनी"
+  },
+  "arre": {
+    "enabled": true,
+    "replacement": "अररे"
+  },
+  "arz": {
+    "enabled": true,
+    "replacement": "अर्ज़"
+  },
+  "arzoo": {
+    "enabled": true,
+    "replacement": "आरज़ू"
+  },
+  "atma": {
+    "enabled": true,
+    "replacement": "आत्मा"
+  },
+  "aunga": {
+    "enabled": true,
+    "replacement": "आऊंगा"
+  },
+  "aur": {
+    "enabled": true,
+    "replacement": "और"
+  },
+  "ayenge": {
+    "enabled": true,
+    "replacement": "आयेंगे"
+  },
+  "baad": {
+    "enabled": true,
+    "replacement": "बाद"
+  },
+  "baadme": {
+    "enabled": true,
+    "replacement": "बाद में"
+  },
+  "baahon": {
+    "enabled": true,
+    "replacement": "बाहों"
+  },
+  "baaki": {
+    "enabled": true,
+    "replacement": "बाकी"
+  },
+  "baal": {
+    "enabled": true,
+    "replacement": "बाल"
+  },
+  "baandh": {
+    "enabled": true,
+    "replacement": "बाँध"
+  },
+  "baap": {
+    "enabled": true,
+    "replacement": "बाप"
+  },
+  "baar": {
+    "enabled": true,
+    "replacement": "बार"
+  },
+  "baare": {
+    "enabled": true,
+    "replacement": "बारे"
+  },
+  "baari": {
+    "enabled": true,
+    "replacement": "बारी"
+  },
+  "baarish": {
+    "enabled": true,
+    "replacement": "बारिश"
+  },
+  "baat": {
+    "enabled": true,
+    "replacement": "बात"
+  },
+  "baatein": {
+    "enabled": true,
+    "replacement": "बातें"
+  },
+  "baatu": {
+    "enabled": true,
+    "replacement": "बातु"
+  },
+  "babu": {
+    "enabled": true,
+    "replacement": "बाबू"
+  },
+  "baccha": {
+    "enabled": true,
+    "replacement": "बच्छा"
+  },
+  "bacche": {
+    "enabled": true,
+    "replacement": "बच्छे"
+  },
+  "bacchon": {
+    "enabled": true,
+    "replacement": "बच्छों"
+  },
+  "bach": {
+    "enabled": true,
+    "replacement": "बच"
+  },
+  "bacha": {
+    "enabled": true,
+    "replacement": "बचा"
+  },
+  "bachake": {
+    "enabled": true,
+    "replacement": "बचाके"
+  },
+  "bachana": {
+    "enabled": true,
+    "replacement": "बचाना"
+  },
+  "bachane": {
+    "enabled": true,
+    "replacement": "बचाने"
+  },
+  "bachao": {
+    "enabled": true,
+    "replacement": "बचाओ"
+  },
+  "bache": {
+    "enabled": true,
+    "replacement": "बचे"
+  },
+  "bachke": {
+    "enabled": true,
+    "replacement": "बचके"
+  },
+  "bachpan": {
+    "enabled": true,
+    "replacement": "बचपन"
+  },
+  "bada": {
+    "enabled": true,
+    "replacement": "बढ़ा"
+  },
+  "badati": {
+    "enabled": true,
+    "replacement": "बढाती"
+  },
+  "badboo": {
+    "enabled": true,
+    "replacement": "बदबू"
+  },
+  "badbu": {
+    "enabled": true,
+    "replacement": "बदबू"
+  },
+  "bade": {
+    "enabled": true,
+    "replacement": "बढ़े"
+  },
+  "badh": {
+    "enabled": true,
+    "replacement": "बढ़"
+  },
+  "badhne": {
+    "enabled": true,
+    "replacement": "बढ़ने"
+  },
+  "badhta": {
+    "enabled": true,
+    "replacement": "बढ़ता"
+  },
+  "badhte": {
+    "enabled": true,
+    "replacement": "बढ़ते"
+  },
+  "badhti": {
+    "enabled": true,
+    "replacement": "बढ़ती"
+  },
+  "badi": {
+    "enabled": true,
+    "replacement": "बढ़ी"
+  },
+  "badiya": {
+    "enabled": true,
+    "replacement": "बढ़िया"
+  },
+  "badiyan": {
+    "enabled": true,
+    "replacement": "बढियाँ"
+  },
+  "badmash": {
+    "enabled": true,
+    "replacement": "बदमाश"
+  },
+  "badnaseeb": {
+    "enabled": true,
+    "replacement": "बदनसीब"
+  },
+  "badnasibi": {
+    "enabled": true,
+    "replacement": "बदनसीबी"
+  },
+  "badne": {
+    "enabled": true,
+    "replacement": "बढ़ने"
+  },
+  "badsurat": {
+    "enabled": true,
+    "replacement": "बदसूरत"
+  },
+  "badta": {
+    "enabled": true,
+    "replacement": "बढ़ता"
+  },
+  "badte": {
+    "enabled": true,
+    "replacement": "बढ़ते"
+  },
+  "badti": {
+    "enabled": true,
+    "replacement": "बढ़ती"
+  },
+  "bagal": {
+    "enabled": true,
+    "replacement": "बगल"
+  },
+  "bahar": {
+    "enabled": true,
+    "replacement": "बाहर"
+  },
+  "bahut": {
+    "enabled": true,
+    "replacement": "बहुत"
+  },
+  "baith": {
+    "enabled": true,
+    "replacement": "बैठ"
+  },
+  "baithe": {
+    "enabled": true,
+    "replacement": "बैठे"
+  },
+  "baithke": {
+    "enabled": true,
+    "replacement": "बैठके"
+  },
+  "baithne": {
+    "enabled": true,
+    "replacement": "बैठने"
+  },
+  "baitho": {
+    "enabled": true,
+    "replacement": "बैठो"
+  },
+  "baiti": {
+    "enabled": true,
+    "replacement": "बैठी"
+  },
+  "baitthe": {
+    "enabled": true,
+    "replacement": "बैठते"
+  },
+  "baj": {
+    "enabled": true,
+    "replacement": "बज"
+  },
+  "bajao": {
+    "enabled": true,
+    "replacement": "बजाओ"
+  },
+  "baje": {
+    "enabled": true,
+    "replacement": "बजे"
+  },
+  "bajne": {
+    "enabled": true,
+    "replacement": "बजने"
+  },
+  "bak": {
+    "enabled": true,
+    "replacement": "बक"
+  },
+  "baki": {
+    "enabled": true,
+    "replacement": "बाकी"
+  },
+  "bako": {
+    "enabled": true,
+    "replacement": "बको"
+  },
+  "bakta": {
+    "enabled": true,
+    "replacement": "बकता"
+  },
+  "bakvas": {
+    "enabled": true,
+    "replacement": "बकवास"
+  },
+  "bakwas": {
+    "enabled": true,
+    "replacement": "बकवास"
+  },
+  "balle": {
+    "enabled": true,
+    "replacement": "बल्ले"
+  },
+  "ban": {
+    "enabled": true,
+    "replacement": "बन"
+  },
+  "bana": {
+    "enabled": true,
+    "replacement": "बना"
+  },
+  "banadunga": {
+    "enabled": true,
+    "replacement": "बनादूंगा"
+  },
+  "banake": {
+    "enabled": true,
+    "replacement": "बनाके"
+  },
+  "banana": {
+    "enabled": true,
+    "replacement": "बनाना"
+  },
+  "banane": {
+    "enabled": true,
+    "replacement": "बनाने"
+  },
+  "banao": {
+    "enabled": true,
+    "replacement": "बनाओ"
+  },
+  "banata": {
+    "enabled": true,
+    "replacement": "बनाता"
+  },
+  "banati": {
+    "enabled": true,
+    "replacement": "बनाती"
+  },
+  "banaunga": {
+    "enabled": true,
+    "replacement": "बनाऊंगा"
+  },
+  "banaungi": {
+    "enabled": true,
+    "replacement": "बनाउंगी"
+  },
+  "banaya": {
+    "enabled": true,
+    "replacement": "बनाया"
+  },
+  "banayega": {
+    "enabled": true,
+    "replacement": "बनायेगा"
+  },
+  "banayegi": {
+    "enabled": true,
+    "replacement": "बनायेगी"
+  },
+  "banayein": {
+    "enabled": true,
+    "replacement": "बनायें"
+  },
+  "banayenge": {
+    "enabled": true,
+    "replacement": "बनायेंगे"
+  },
+  "banda": {
+    "enabled": true,
+    "replacement": "बंदा"
+  },
+  "bandar": {
+    "enabled": true,
+    "replacement": "बंदर"
+  },
+  "bandh": {
+    "enabled": true,
+    "replacement": "बंध"
+  },
+  "bandhu": {
+    "enabled": true,
+    "replacement": "बंधु"
+  },
+  "banega": {
+    "enabled": true,
+    "replacement": "बनेगा"
+  },
+  "banegi": {
+    "enabled": true,
+    "replacement": "बनेगी"
+  },
+  "banenge": {
+    "enabled": true,
+    "replacement": "बनेंगे"
+  },
+  "bann": {
+    "enabled": true,
+    "replacement": "बन"
+  },
+  "banne": {
+    "enabled": true,
+    "replacement": "बन्ने"
+  },
+  "bano": {
+    "enabled": true,
+    "replacement": "बनो"
+  },
+  "banoge": {
+    "enabled": true,
+    "replacement": "बनोगे"
+  },
+  "banta": {
+    "enabled": true,
+    "replacement": "बनता"
+  },
+  "bante": {
+    "enabled": true,
+    "replacement": "बनते"
+  },
+  "banti": {
+    "enabled": true,
+    "replacement": "बनती"
+  },
+  "baren": {
+    "enabled": true,
+    "replacement": "बारे"
+  },
+  "bari": {
+    "enabled": true,
+    "replacement": "बारी"
+  },
+  "barish": {
+    "enabled": true,
+    "replacement": "बारिश"
+  },
+  "bas": {
+    "enabled": true,
+    "replacement": "बस"
+  },
+  "bata": {
+    "enabled": true,
+    "replacement": "बता"
+  },
+  "batana": {
+    "enabled": true,
+    "replacement": "बताना"
+  },
+  "batane": {
+    "enabled": true,
+    "replacement": "बताने"
+  },
+  "batao": {
+    "enabled": true,
+    "replacement": "बताओ"
+  },
+  "batata": {
+    "enabled": true,
+    "replacement": "बताता"
+  },
+  "batate": {
+    "enabled": true,
+    "replacement": "बताते"
+  },
+  "batati": {
+    "enabled": true,
+    "replacement": "बताती"
+  },
+  "bataun": {
+    "enabled": true,
+    "replacement": "बताऊँ"
+  },
+  "bataya": {
+    "enabled": true,
+    "replacement": "बताया"
+  },
+  "batayenge": {
+    "enabled": true,
+    "replacement": "बताएँगे"
+  },
+  "batu": {
+    "enabled": true,
+    "replacement": "बातु"
+  },
+  "bawarchi": {
+    "enabled": true,
+    "replacement": "बावर्ची"
+  },
+  "bechara": {
+    "enabled": true,
+    "replacement": "बेचारा"
+  },
+  "bechare": {
+    "enabled": true,
+    "replacement": "बेचारे"
+  },
+  "bechari": {
+    "enabled": true,
+    "replacement": "बेचारी"
+  },
+  "beech": {
+    "enabled": true,
+    "replacement": "बीच"
+  },
+  "behen": {
+    "enabled": true,
+    "replacement": "बेहेन"
+  },
+  "beta": {
+    "enabled": true,
+    "replacement": "बेटा"
+  },
+  "bete": {
+    "enabled": true,
+    "replacement": "बेटे"
+  },
+  "beti": {
+    "enabled": true,
+    "replacement": "बेटी"
+  },
+  "bevajah": {
+    "enabled": true,
+    "replacement": "बेवजह"
+  },
+  "bhaag": {
+    "enabled": true,
+    "replacement": "भाग"
+  },
+  "bhaaga": {
+    "enabled": true,
+    "replacement": "भागा"
+  },
+  "bhaagi": {
+    "enabled": true,
+    "replacement": "भागी"
+  },
+  "bhaago": {
+    "enabled": true,
+    "replacement": "भागो"
+  },
+  "bhaari": {
+    "enabled": true,
+    "replacement": "भारी"
+  },
+  "bhag": {
+    "enabled": true,
+    "replacement": "भाग"
+  },
+  "bhago": {
+    "enabled": true,
+    "replacement": "भागो"
+  },
+  "bhai": {
+    "enabled": true,
+    "replacement": "भाई"
+  },
+  "bhaiya": {
+    "enabled": true,
+    "replacement": "भैय्या"
+  },
+  "bhaiyya": {
+    "enabled": true,
+    "replacement": "भैय्या"
+  },
+  "bhaji": {
+    "enabled": true,
+    "replacement": "भाजी"
+  },
+  "bhala": {
+    "enabled": true,
+    "replacement": "भला"
+  },
+  "bhar": {
+    "enabled": true,
+    "replacement": "भर"
+  },
+  "bharana": {
+    "enabled": true,
+    "replacement": "भराना"
+  },
+  "bharatiya": {
+    "enabled": true,
+    "replacement": "भारतीय"
+  },
+  "bhari": {
+    "enabled": true,
+    "replacement": "भारी"
+  },
+  "bharta": {
+    "enabled": true,
+    "replacement": "भरता"
+  },
+  "bhatura": {
+    "enabled": true,
+    "replacement": "भटूरा"
+  },
+  "bhayya": {
+    "enabled": true,
+    "replacement": "भैय्या"
+  },
+  "bheeg": {
+    "enabled": true,
+    "replacement": "भीग"
+  },
+  "bheega": {
+    "enabled": true,
+    "replacement": "भीगा"
+  },
+  "bheegi": {
+    "enabled": true,
+    "replacement": "भीगी"
+  },
+  "bhej": {
+    "enabled": true,
+    "replacement": "भेज"
+  },
+  "bheja": {
+    "enabled": true,
+    "replacement": "भेजा"
+  },
+  "bheji": {
+    "enabled": true,
+    "replacement": "भेजी"
+  },
+  "bhejke": {
+    "enabled": true,
+    "replacement": "भेजके"
+  },
+  "bhejna": {
+    "enabled": true,
+    "replacement": "भेजना"
+  },
+  "bhejne": {
+    "enabled": true,
+    "replacement": "भेजने"
+  },
+  "bhejo": {
+    "enabled": true,
+    "replacement": "भेजो"
+  },
+  "bhejoge": {
+    "enabled": true,
+    "replacement": "भेजोगे"
+  },
+  "bhejogi": {
+    "enabled": true,
+    "replacement": "भेजोगी"
+  },
+  "bhejta": {
+    "enabled": true,
+    "replacement": "भेजता"
+  },
+  "bhejti": {
+    "enabled": true,
+    "replacement": "भेजती"
+  },
+  "bhi": {
+    "enabled": true,
+    "replacement": "भी"
+  },
+  "bhikari": {
+    "enabled": true,
+    "replacement": "भिकारी"
+  },
+  "bhook": {
+    "enabled": true,
+    "replacement": "भूक"
+  },
+  "bhooka": {
+    "enabled": true,
+    "replacement": "भूका"
+  },
+  "bhookamp": {
+    "enabled": true,
+    "replacement": "भूकंप"
+  },
+  "bhookh": {
+    "enabled": true,
+    "replacement": "भूख"
+  },
+  "bhool": {
+    "enabled": true,
+    "replacement": "भूल"
+  },
+  "bhoolna": {
+    "enabled": true,
+    "replacement": "भूलना"
+  },
+  "bhugathna": {
+    "enabled": true,
+    "replacement": "भुगतना"
+  },
+  "bhugatna": {
+    "enabled": true,
+    "replacement": "भुगतना"
+  },
+  "bhugtho": {
+    "enabled": true,
+    "replacement": "भुगतो"
+  },
+  "bhugto": {
+    "enabled": true,
+    "replacement": "भुगतो"
+  },
+  "bhuk": {
+    "enabled": true,
+    "replacement": "भूक"
+  },
+  "bhukh": {
+    "enabled": true,
+    "replacement": "भूख"
+  },
+  "bichad": {
+    "enabled": true,
+    "replacement": "बिछड़"
+  },
+  "bichadke": {
+    "enabled": true,
+    "replacement": "बिछडके"
+  },
+  "bichadna": {
+    "enabled": true,
+    "replacement": "बिछड़ना"
+  },
+  "bichadne": {
+    "enabled": true,
+    "replacement": "बिछड़ने"
+  },
+  "bigad": {
+    "enabled": true,
+    "replacement": "बिगड़"
+  },
+  "bigada": {
+    "enabled": true,
+    "replacement": "बिगाडा"
+  },
+  "bigadta": {
+    "enabled": true,
+    "replacement": "बिगड़ता"
+  },
+  "bigadti": {
+    "enabled": true,
+    "replacement": "बिगड़ती"
+  },
+  "bilkul": {
+    "enabled": true,
+    "replacement": "बिल्कुल"
+  },
+  "billi": {
+    "enabled": true,
+    "replacement": "बिल्ली"
+  },
+  "bimari": {
+    "enabled": true,
+    "replacement": "बीमारी"
+  },
+  "bina": {
+    "enabled": true,
+    "replacement": "बिना"
+  },
+  "biwi": {
+    "enabled": true,
+    "replacement": "बीवी"
+  },
+  "biwiyaan": {
+    "enabled": true,
+    "replacement": "बीवीयाँ"
+  },
+  "biwiyan": {
+    "enabled": true,
+    "replacement": "बीवीयाँ"
+  },
+  "bol": {
+    "enabled": true,
+    "replacement": "बोल"
+  },
+  "bola": {
+    "enabled": true,
+    "replacement": "बोला"
+  },
+  "bolat": {
+    "enabled": true,
+    "replacement": "बोलत"
+  },
+  "bole": {
+    "enabled": true,
+    "replacement": "बोले"
+  },
+  "bolega": {
+    "enabled": true,
+    "replacement": "बोलेगा"
+  },
+  "bolegi": {
+    "enabled": true,
+    "replacement": "बोलेगी"
+  },
+  "bolenge": {
+    "enabled": true,
+    "replacement": "बोलेंगे"
+  },
+  "boli": {
+    "enabled": true,
+    "replacement": "बोली"
+  },
+  "boliye": {
+    "enabled": true,
+    "replacement": "बोलिए"
+  },
+  "bolna": {
+    "enabled": true,
+    "replacement": "बोलना"
+  },
+  "bolne": {
+    "enabled": true,
+    "replacement": "बोलने"
+  },
+  "bolo": {
+    "enabled": true,
+    "replacement": "बोलो"
+  },
+  "bologe": {
+    "enabled": true,
+    "replacement": "बोलोगे"
+  },
+  "bologi": {
+    "enabled": true,
+    "replacement": "बोलोगी"
+  },
+  "bolta": {
+    "enabled": true,
+    "replacement": "बोलता"
+  },
+  "bolte": {
+    "enabled": true,
+    "replacement": "बोलते"
+  },
+  "bolti": {
+    "enabled": true,
+    "replacement": "बोलती"
+  },
+  "bolun": {
+    "enabled": true,
+    "replacement": "बोलूं"
+  },
+  "bolunga": {
+    "enabled": true,
+    "replacement": "बोलूँगा"
+  },
+  "bolungi": {
+    "enabled": true,
+    "replacement": "बोलूंगी"
+  },
+  "bubbu": {
+    "enabled": true,
+    "replacement": "बुब्बू"
+  },
+  "budda": {
+    "enabled": true,
+    "replacement": "बुढ्ढा"
+  },
+  "budde": {
+    "enabled": true,
+    "replacement": "बूढ़े"
+  },
+  "buddhe": {
+    "enabled": true,
+    "replacement": "बूढ़े"
+  },
+  "buddi": {
+    "enabled": true,
+    "replacement": "बुढ्ढी"
+  },
+  "budhe": {
+    "enabled": true,
+    "replacement": "बूढ़े"
+  },
+  "bukh": {
+    "enabled": true,
+    "replacement": "भूख"
+  },
+  "bula": {
+    "enabled": true,
+    "replacement": "बुला"
+  },
+  "bulana": {
+    "enabled": true,
+    "replacement": "बुलाना"
+  },
+  "bulao": {
+    "enabled": true,
+    "replacement": "बुलाओ"
+  },
+  "bulaoge": {
+    "enabled": true,
+    "replacement": "बुलाओगे"
+  },
+  "bulaogi": {
+    "enabled": true,
+    "replacement": "बुलाओगी"
+  },
+  "bulata": {
+    "enabled": true,
+    "replacement": "बुलाता"
+  },
+  "bulate": {
+    "enabled": true,
+    "replacement": "बुलाते"
+  },
+  "bulati": {
+    "enabled": true,
+    "replacement": "बुलाती"
+  },
+  "bulaun": {
+    "enabled": true,
+    "replacement": "बुलाऊँ"
+  },
+  "bulaya": {
+    "enabled": true,
+    "replacement": "बुलाया"
+  },
+  "bulayega": {
+    "enabled": true,
+    "replacement": "बुलायेगा"
+  },
+  "bulayegi": {
+    "enabled": true,
+    "replacement": "बुलायेगी"
+  },
+  "bulayenge": {
+    "enabled": true,
+    "replacement": "बुलायेंगे"
+  },
+  "bura": {
+    "enabled": true,
+    "replacement": "बुरा"
+  },
+  "buri": {
+    "enabled": true,
+    "replacement": "बुरी"
+  },
+  "byah": {
+    "enabled": true,
+    "replacement": "ब्याह"
+  },
+  "chaabi": {
+    "enabled": true,
+    "replacement": "चाबी"
+  },
+  "chaal": {
+    "enabled": true,
+    "replacement": "चाल"
+  },
+  "chaanta": {
+    "enabled": true,
+    "replacement": "चांटा"
+  },
+  "chaar": {
+    "enabled": true,
+    "replacement": "चार"
+  },
+  "chabi": {
+    "enabled": true,
+    "replacement": "चाबी"
+  },
+  "chado": {
+    "enabled": true,
+    "replacement": "छडो"
+  },
+  "chadte": {
+    "enabled": true,
+    "replacement": "छड़ते"
+  },
+  "chadti": {
+    "enabled": true,
+    "replacement": "छड़ती"
+  },
+  "chahe": {
+    "enabled": true,
+    "replacement": "चाहे"
+  },
+  "chahenge": {
+    "enabled": true,
+    "replacement": "चाहेंगे"
+  },
+  "chahiye": {
+    "enabled": true,
+    "replacement": "चाहिये"
+  },
+  "chahta": {
+    "enabled": true,
+    "replacement": "चाहता"
+  },
+  "chahti": {
+    "enabled": true,
+    "replacement": "चाहती"
+  },
+  "chai": {
+    "enabled": true,
+    "replacement": "चाय"
+  },
+  "chaiye": {
+    "enabled": true,
+    "replacement": "चाहिये"
+  },
+  "chal": {
+    "enabled": true,
+    "replacement": "चल"
+  },
+  "chala": {
+    "enabled": true,
+    "replacement": "चला"
+  },
+  "chalak": {
+    "enabled": true,
+    "replacement": "चालाक"
+  },
+  "chalake": {
+    "enabled": true,
+    "replacement": "चलाके"
+  },
+  "chalana": {
+    "enabled": true,
+    "replacement": "चलाना"
+  },
+  "chalane": {
+    "enabled": true,
+    "replacement": "चलाने"
+  },
+  "chalaun": {
+    "enabled": true,
+    "replacement": "चलाऊं"
+  },
+  "chale": {
+    "enabled": true,
+    "replacement": "चले"
+  },
+  "chalega": {
+    "enabled": true,
+    "replacement": "चलेगा"
+  },
+  "chalegi": {
+    "enabled": true,
+    "replacement": "चलेगी"
+  },
+  "chalen": {
+    "enabled": true,
+    "replacement": "चलें"
+  },
+  "chali": {
+    "enabled": true,
+    "replacement": "चली"
+  },
+  "chaliye": {
+    "enabled": true,
+    "replacement": "चलिये"
+  },
+  "chalke": {
+    "enabled": true,
+    "replacement": "चलके"
+  },
+  "chalna": {
+    "enabled": true,
+    "replacement": "चलना"
+  },
+  "chalne": {
+    "enabled": true,
+    "replacement": "चलने"
+  },
+  "chalo": {
+    "enabled": true,
+    "replacement": "चलो"
+  },
+  "chalta": {
+    "enabled": true,
+    "replacement": "चलता"
+  },
+  "chalte": {
+    "enabled": true,
+    "replacement": "चलते"
+  },
+  "chalti": {
+    "enabled": true,
+    "replacement": "चलती"
+  },
+  "chana": {
+    "enabled": true,
+    "replacement": "चना"
+  },
+  "chandi": {
+    "enabled": true,
+    "replacement": "चाँदी"
+  },
+  "changa": {
+    "enabled": true,
+    "replacement": "चंगा"
+  },
+  "changi": {
+    "enabled": true,
+    "replacement": "छंगी"
+  },
+  "channa": {
+    "enabled": true,
+    "replacement": "चना"
+  },
+  "chanti": {
+    "enabled": true,
+    "replacement": "చంటి"
+  },
+  "chaon": {
+    "enabled": true,
+    "replacement": "छाओं"
+  },
+  "chaprasi": {
+    "enabled": true,
+    "replacement": "चपरासी"
+  },
+  "char": {
+    "enabled": true,
+    "replacement": "चार"
+  },
+  "che": {
+    "enabled": true,
+    "replacement": "छे"
+  },
+  "chee": {
+    "enabled": true,
+    "replacement": "छी"
+  },
+  "cheeni": {
+    "enabled": true,
+    "replacement": "चीनी"
+  },
+  "cheez": {
+    "enabled": true,
+    "replacement": "चीज़"
+  },
+  "cheezen": {
+    "enabled": true,
+    "replacement": "चीज़ें"
+  },
+  "cheezon": {
+    "enabled": true,
+    "replacement": "चीज़ों"
+  },
+  "chhado": {
+    "enabled": true,
+    "replacement": "छडो"
+  },
+  "chhadte": {
+    "enabled": true,
+    "replacement": "छड़ते"
+  },
+  "chhadti": {
+    "enabled": true,
+    "replacement": "छड़ती"
+  },
+  "chhalo": {
+    "enabled": true,
+    "replacement": "चलो"
+  },
+  "chi": {
+    "enabled": true,
+    "replacement": "छी"
+  },
+  "chidiya": {
+    "enabled": true,
+    "replacement": "चिड़िया"
+  },
+  "chilka": {
+    "enabled": true,
+    "replacement": "चिल्का"
+  },
+  "chilke": {
+    "enabled": true,
+    "replacement": "छिलके"
+  },
+  "chilla": {
+    "enabled": true,
+    "replacement": "चिल्ला"
+  },
+  "chillake": {
+    "enabled": true,
+    "replacement": "चिल्लाके"
+  },
+  "chillana": {
+    "enabled": true,
+    "replacement": "चिल्लाना"
+  },
+  "chillao": {
+    "enabled": true,
+    "replacement": "चिल्लाओ"
+  },
+  "chillata": {
+    "enabled": true,
+    "replacement": "चिल्लाता"
+  },
+  "chillate": {
+    "enabled": true,
+    "replacement": "चिल्लाते"
+  },
+  "chillati": {
+    "enabled": true,
+    "replacement": "चिल्लाती"
+  },
+  "chinta": {
+    "enabled": true,
+    "replacement": "चिंता"
+  },
+  "chintak": {
+    "enabled": true,
+    "replacement": "चिंतक"
+  },
+  "chod": {
+    "enabled": true,
+    "replacement": "छोड़"
+  },
+  "chodna": {
+    "enabled": true,
+    "replacement": "छोड़ना"
+  },
+  "chodne": {
+    "enabled": true,
+    "replacement": "छोड़ने"
+  },
+  "chodo": {
+    "enabled": true,
+    "replacement": "छोड़ो"
+  },
+  "chodoge": {
+    "enabled": true,
+    "replacement": "छोडोगे"
+  },
+  "chodta": {
+    "enabled": true,
+    "replacement": "छोड़ता"
+  },
+  "chodte": {
+    "enabled": true,
+    "replacement": "छोड़ते"
+  },
+  "chodti": {
+    "enabled": true,
+    "replacement": "छोड़ती"
+  },
+  "chole": {
+    "enabled": true,
+    "replacement": "छोले"
+  },
+  "chona": {
+    "enabled": true,
+    "replacement": "छोना"
+  },
+  "choni": {
+    "enabled": true,
+    "replacement": "छोनी"
+  },
+  "choo": {
+    "enabled": true,
+    "replacement": "छू"
+  },
+  "chooe": {
+    "enabled": true,
+    "replacement": "छूए"
+  },
+  "chooke": {
+    "enabled": true,
+    "replacement": "छूके"
+  },
+  "choona": {
+    "enabled": true,
+    "replacement": "छूना"
+  },
+  "choone": {
+    "enabled": true,
+    "replacement": "छूने"
+  },
+  "choota": {
+    "enabled": true,
+    "replacement": "छूता"
+  },
+  "choote": {
+    "enabled": true,
+    "replacement": "छूते"
+  },
+  "chooti": {
+    "enabled": true,
+    "replacement": "छूती"
+  },
+  "chota": {
+    "enabled": true,
+    "replacement": "छोटा"
+  },
+  "chote": {
+    "enabled": true,
+    "replacement": "छोटे"
+  },
+  "choti": {
+    "enabled": true,
+    "replacement": "छोटी"
+  },
+  "chotu": {
+    "enabled": true,
+    "replacement": "छोटू"
+  },
+  "chua": {
+    "enabled": true,
+    "replacement": "छुआ"
+  },
+  "chudel": {
+    "enabled": true,
+    "replacement": "चुडेल"
+  },
+  "chuk": {
+    "enabled": true,
+    "replacement": "चुक"
+  },
+  "chukar": {
+    "enabled": true,
+    "replacement": "छूकर"
+  },
+  "chun": {
+    "enabled": true,
+    "replacement": "चुन"
+  },
+  "chuna": {
+    "enabled": true,
+    "replacement": "छूना"
+  },
+  "chuo": {
+    "enabled": true,
+    "replacement": "छुओ"
+  },
+  "chup": {
+    "enabled": true,
+    "replacement": "चुप"
+  },
+  "daal": {
+    "enabled": true,
+    "replacement": "डाल"
+  },
+  "daala": {
+    "enabled": true,
+    "replacement": "डाला"
+  },
+  "daalen": {
+    "enabled": true,
+    "replacement": "डालें"
+  },
+  "daalke": {
+    "enabled": true,
+    "replacement": "डालके"
+  },
+  "daalte": {
+    "enabled": true,
+    "replacement": "डालते"
+  },
+  "dahi": {
+    "enabled": true,
+    "replacement": "दही"
+  },
+  "dal": {
+    "enabled": true,
+    "replacement": "दाल"
+  },
+  "dala": {
+    "enabled": true,
+    "replacement": "डाला"
+  },
+  "dalenge": {
+    "enabled": true,
+    "replacement": "डालेंगे"
+  },
+  "dalo": {
+    "enabled": true,
+    "replacement": "डालो"
+  },
+  "dalta": {
+    "enabled": true,
+    "replacement": "डालता"
+  },
+  "dalte": {
+    "enabled": true,
+    "replacement": "डालते"
+  },
+  "dalti": {
+    "enabled": true,
+    "replacement": "डालती"
+  },
+  "dar": {
+    "enabled": true,
+    "replacement": "डर"
+  },
+  "de": {
+    "enabled": true,
+    "replacement": "दे"
+  },
+  "deewar": {
+    "enabled": true,
+    "replacement": "दीवार"
+  },
+  "dehati": {
+    "enabled": true,
+    "replacement": "देहाती"
+  },
+  "deke": {
+    "enabled": true,
+    "replacement": "देके"
+  },
+  "dekh": {
+    "enabled": true,
+    "replacement": "देख"
+  },
+  "dekha": {
+    "enabled": true,
+    "replacement": "देखा"
+  },
+  "dekhe": {
+    "enabled": true,
+    "replacement": "देखे"
+  },
+  "dekhega": {
+    "enabled": true,
+    "replacement": "देखेगा"
+  },
+  "dekhen": {
+    "enabled": true,
+    "replacement": "देखें"
+  },
+  "dekhenge": {
+    "enabled": true,
+    "replacement": "देखेंगे"
+  },
+  "dekhi": {
+    "enabled": true,
+    "replacement": "दखी"
+  },
+  "dekhiye": {
+    "enabled": true,
+    "replacement": "देखिये"
+  },
+  "dekhke": {
+    "enabled": true,
+    "replacement": "देखके"
+  },
+  "dekhna": {
+    "enabled": true,
+    "replacement": "देखना"
+  },
+  "dekhne": {
+    "enabled": true,
+    "replacement": "देखने"
+  },
+  "dekho": {
+    "enabled": true,
+    "replacement": "देखो"
+  },
+  "dekhoge": {
+    "enabled": true,
+    "replacement": "देखोगे"
+  },
+  "dekhogi": {
+    "enabled": true,
+    "replacement": "देखोगी"
+  },
+  "dekhta": {
+    "enabled": true,
+    "replacement": "देखता"
+  },
+  "dekhte": {
+    "enabled": true,
+    "replacement": "देखते"
+  },
+  "dekhti": {
+    "enabled": true,
+    "replacement": "देखती"
+  },
+  "dekhunga": {
+    "enabled": true,
+    "replacement": "देखूंगा"
+  },
+  "dekhungi": {
+    "enabled": true,
+    "replacement": "देखूंगी"
+  },
+  "dena": {
+    "enabled": true,
+    "replacement": "देना"
+  },
+  "denge": {
+    "enabled": true,
+    "replacement": "देंगे"
+  },
+  "der": {
+    "enabled": true,
+    "replacement": "देर"
+  },
+  "desh": {
+    "enabled": true,
+    "replacement": "देश"
+  },
+  "desi": {
+    "enabled": true,
+    "replacement": "देसी"
+  },
+  "deta": {
+    "enabled": true,
+    "replacement": "देता"
+  },
+  "dete": {
+    "enabled": true,
+    "replacement": "देते"
+  },
+  "deten": {
+    "enabled": true,
+    "replacement": "देतें"
+  },
+  "deti": {
+    "enabled": true,
+    "replacement": "देती"
+  },
+  "dhaam": {
+    "enabled": true,
+    "replacement": "धाम"
+  },
+  "dhadak": {
+    "enabled": true,
+    "replacement": "धड़क"
+  },
+  "dhadakna": {
+    "enabled": true,
+    "replacement": "धड़कना"
+  },
+  "dhadakne": {
+    "enabled": true,
+    "replacement": "धड़कने"
+  },
+  "dhadakta": {
+    "enabled": true,
+    "replacement": "धड़कता"
+  },
+  "dhadakti": {
+    "enabled": true,
+    "replacement": "धड़कती"
+  },
+  "dhakkan": {
+    "enabled": true,
+    "replacement": "ढक्कन"
+  },
+  "dheela": {
+    "enabled": true,
+    "replacement": "ढीला"
+  },
+  "dheele": {
+    "enabled": true,
+    "replacement": "ढीले"
+  },
+  "dheere": {
+    "enabled": true,
+    "replacement": "धीरे"
+  },
+  "dho": {
+    "enabled": true,
+    "replacement": "दो"
+  },
+  "dhona": {
+    "enabled": true,
+    "replacement": "धोना"
+  },
+  "dhone": {
+    "enabled": true,
+    "replacement": "धोने"
+  },
+  "dhong": {
+    "enabled": true,
+    "replacement": "ढोंग"
+  },
+  "dhongini": {
+    "enabled": true,
+    "replacement": "ढ़ोंगिनी"
+  },
+  "dhoond": {
+    "enabled": true,
+    "replacement": "ढूंड"
+  },
+  "dhoondke": {
+    "enabled": true,
+    "replacement": "ढूंडके"
+  },
+  "dhoondo": {
+    "enabled": true,
+    "replacement": "ढूंडो"
+  },
+  "dhoondoge": {
+    "enabled": true,
+    "replacement": "ढूंडोगे"
+  },
+  "dhoondogi": {
+    "enabled": true,
+    "replacement": "ढूंडोगी"
+  },
+  "dhoop": {
+    "enabled": true,
+    "replacement": "धूप"
+  },
+  "di": {
+    "enabled": true,
+    "replacement": "दी"
+  },
+  "didi": {
+    "enabled": true,
+    "replacement": "दीदी"
+  },
+  "dikh": {
+    "enabled": true,
+    "replacement": "दिख"
+  },
+  "dikha": {
+    "enabled": true,
+    "replacement": "दिखा"
+  },
+  "dikhana": {
+    "enabled": true,
+    "replacement": "दिखाना"
+  },
+  "dikhane": {
+    "enabled": true,
+    "replacement": "दिखाने"
+  },
+  "dikhao": {
+    "enabled": true,
+    "replacement": "दिखाओ"
+  },
+  "dikhata": {
+    "enabled": true,
+    "replacement": "दिखाता"
+  },
+  "dikhate": {
+    "enabled": true,
+    "replacement": "दिखाते"
+  },
+  "dikhati": {
+    "enabled": true,
+    "replacement": "दिखाती"
+  },
+  "dikhaya": {
+    "enabled": true,
+    "replacement": "दिखाया"
+  },
+  "dikhne": {
+    "enabled": true,
+    "replacement": "दिखने"
+  },
+  "dikhta": {
+    "enabled": true,
+    "replacement": "दिखता"
+  },
+  "dikhte": {
+    "enabled": true,
+    "replacement": "दिखते"
+  },
+  "dikhti": {
+    "enabled": true,
+    "replacement": "दिखती"
+  },
+  "dikkat": {
+    "enabled": true,
+    "replacement": "दिक्खत"
+  },
+  "dikkhat": {
+    "enabled": true,
+    "replacement": "दिक्खत"
+  },
+  "dil": {
+    "enabled": true,
+    "replacement": "दिल"
+  },
+  "dilbar": {
+    "enabled": true,
+    "replacement": "दिलबर"
+  },
+  "dimaag": {
+    "enabled": true,
+    "replacement": "दिमाग"
+  },
+  "dimag": {
+    "enabled": true,
+    "replacement": "दिमाग"
+  },
+  "din": {
+    "enabled": true,
+    "replacement": "दिन"
+  },
+  "diya": {
+    "enabled": true,
+    "replacement": "दिया"
+  },
+  "diye": {
+    "enabled": true,
+    "replacement": "दिये"
+  },
+  "doge": {
+    "enabled": true,
+    "replacement": "दोगे"
+  },
+  "dogi": {
+    "enabled": true,
+    "replacement": "दोगी"
+  },
+  "doh": {
+    "enabled": true,
+    "replacement": "दो"
+  },
+  "dono": {
+    "enabled": true,
+    "replacement": "दोनों"
+  },
+  "doodh": {
+    "enabled": true,
+    "replacement": "दूध"
+  },
+  "doosra": {
+    "enabled": true,
+    "replacement": "दूसरा"
+  },
+  "doosre": {
+    "enabled": true,
+    "replacement": "दूसरे"
+  },
+  "doosri": {
+    "enabled": true,
+    "replacement": "दूसरी"
+  },
+  "doosron": {
+    "enabled": true,
+    "replacement": "दूसरों"
+  },
+  "dost": {
+    "enabled": true,
+    "replacement": "दोस्त"
+  },
+  "duddhu": {
+    "enabled": true,
+    "replacement": "दुधु"
+  },
+  "dudh": {
+    "enabled": true,
+    "replacement": "दूध"
+  },
+  "dudhu": {
+    "enabled": true,
+    "replacement": "दुधू"
+  },
+  "dukh": {
+    "enabled": true,
+    "replacement": "दुःख"
+  },
+  "dukhi": {
+    "enabled": true,
+    "replacement": "दुखी"
+  },
+  "dun": {
+    "enabled": true,
+    "replacement": "दूँ"
+  },
+  "dunga": {
+    "enabled": true,
+    "replacement": "दूंगा"
+  },
+  "dungi": {
+    "enabled": true,
+    "replacement": "दूंगी"
+  },
+  "duniya": {
+    "enabled": true,
+    "replacement": "दुनिया"
+  },
+  "dur": {
+    "enabled": true,
+    "replacement": "दूर"
+  },
+  "dus": {
+    "enabled": true,
+    "replacement": "दस"
+  },
+  "dusra": {
+    "enabled": true,
+    "replacement": "दूसरा"
+  },
+  "dusri": {
+    "enabled": true,
+    "replacement": "दूसरी"
+  },
+  "ek": {
+    "enabled": true,
+    "replacement": "एक"
+  },
+  "faida": {
+    "enabled": true,
+    "replacement": "फायदा"
+  },
+  "faltoo": {
+    "enabled": true,
+    "replacement": "फालतू"
+  },
+  "farmaaish": {
+    "enabled": true,
+    "replacement": "फ़र्माइश"
+  },
+  "farmaish": {
+    "enabled": true,
+    "replacement": "फ़र्माइश"
+  },
+  "fayda": {
+    "enabled": true,
+    "replacement": "फायदा"
+  },
+  "gaa": {
+    "enabled": true,
+    "replacement": "गा"
+  },
+  "gaadi": {
+    "enabled": true,
+    "replacement": "गाड़ी"
+  },
+  "gaadiyan": {
+    "enabled": true,
+    "replacement": "गाडियाँ"
+  },
+  "gaana": {
+    "enabled": true,
+    "replacement": "गाना"
+  },
+  "gaane": {
+    "enabled": true,
+    "replacement": "गाने"
+  },
+  "gaiye": {
+    "enabled": true,
+    "replacement": "गाइये"
+  },
+  "galat": {
+    "enabled": true,
+    "replacement": "ग़लत"
+  },
+  "gale": {
+    "enabled": true,
+    "replacement": "गले"
+  },
+  "galti": {
+    "enabled": true,
+    "replacement": "गलती"
+  },
+  "gana": {
+    "enabled": true,
+    "replacement": "गाना"
+  },
+  "ganda": {
+    "enabled": true,
+    "replacement": "गंदा"
+  },
+  "gande": {
+    "enabled": true,
+    "replacement": "गंदे"
+  },
+  "gandi": {
+    "enabled": true,
+    "replacement": "गंदी"
+  },
+  "ganja": {
+    "enabled": true,
+    "replacement": "गंजा"
+  },
+  "ganje": {
+    "enabled": true,
+    "replacement": "गंजे"
+  },
+  "ganji": {
+    "enabled": true,
+    "replacement": "गंजी"
+  },
+  "gao": {
+    "enabled": true,
+    "replacement": "गाओ"
+  },
+  "gappe": {
+    "enabled": true,
+    "replacement": "गप्पे"
+  },
+  "gapshap": {
+    "enabled": true,
+    "replacement": "गपशप"
+  },
+  "garam": {
+    "enabled": true,
+    "replacement": "गरम"
+  },
+  "garma": {
+    "enabled": true,
+    "replacement": "गरमा"
+  },
+  "garmi": {
+    "enabled": true,
+    "replacement": "गर्मी"
+  },
+  "gaya": {
+    "enabled": true,
+    "replacement": "गया"
+  },
+  "gaye": {
+    "enabled": true,
+    "replacement": "गये"
+  },
+  "gayi": {
+    "enabled": true,
+    "replacement": "गयी"
+  },
+  "ghar": {
+    "enabled": true,
+    "replacement": "घर"
+  },
+  "ghatthe": {
+    "enabled": true,
+    "replacement": "घटते"
+  },
+  "ghoom": {
+    "enabled": true,
+    "replacement": "घूम"
+  },
+  "ghoomi": {
+    "enabled": true,
+    "replacement": "घूमी"
+  },
+  "ghulam": {
+    "enabled": true,
+    "replacement": "घुलाम"
+  },
+  "ghulami": {
+    "enabled": true,
+    "replacement": "घुलामी"
+  },
+  "ghus": {
+    "enabled": true,
+    "replacement": "घुस"
+  },
+  "ghusaake": {
+    "enabled": true,
+    "replacement": "घुसाके"
+  },
+  "ghusaana": {
+    "enabled": true,
+    "replacement": "घुसाना"
+  },
+  "ghusaata": {
+    "enabled": true,
+    "replacement": "घुसाता"
+  },
+  "ghusaate": {
+    "enabled": true,
+    "replacement": "घुसाते"
+  },
+  "ghusaati": {
+    "enabled": true,
+    "replacement": "घुसाती"
+  },
+  "ghusake": {
+    "enabled": true,
+    "replacement": "घुसाके"
+  },
+  "ghusana": {
+    "enabled": true,
+    "replacement": "घुसाना"
+  },
+  "ghusata": {
+    "enabled": true,
+    "replacement": "घुसाता"
+  },
+  "ghusate": {
+    "enabled": true,
+    "replacement": "घुसाते"
+  },
+  "ghusati": {
+    "enabled": true,
+    "replacement": "घुसाती"
+  },
+  "ghuske": {
+    "enabled": true,
+    "replacement": "घुसके"
+  },
+  "ghusna": {
+    "enabled": true,
+    "replacement": "घुसना"
+  },
+  "ghusne": {
+    "enabled": true,
+    "replacement": "घुसने"
+  },
+  "ghusta": {
+    "enabled": true,
+    "replacement": "घुसता"
+  },
+  "ghuste": {
+    "enabled": true,
+    "replacement": "घुसते"
+  },
+  "ghusti": {
+    "enabled": true,
+    "replacement": "घुसती"
+  },
+  "gi": {
+    "enabled": true,
+    "replacement": "गी"
+  },
+  "gir": {
+    "enabled": true,
+    "replacement": "गिर"
+  },
+  "gira": {
+    "enabled": true,
+    "replacement": "गिरा"
+  },
+  "giraya": {
+    "enabled": true,
+    "replacement": "गिराया"
+  },
+  "girenge": {
+    "enabled": true,
+    "replacement": "गिरेंगे"
+  },
+  "giri": {
+    "enabled": true,
+    "replacement": "गिरी"
+  },
+  "giro": {
+    "enabled": true,
+    "replacement": "गिरो"
+  },
+  "giroge": {
+    "enabled": true,
+    "replacement": "गिरोगे"
+  },
+  "girogi": {
+    "enabled": true,
+    "replacement": "गिरोगी"
+  },
+  "girte": {
+    "enabled": true,
+    "replacement": "गिरते"
+  },
+  "gobar": {
+    "enabled": true,
+    "replacement": "गोबर"
+  },
+  "godi": {
+    "enabled": true,
+    "replacement": "गोदी"
+  },
+  "gora": {
+    "enabled": true,
+    "replacement": "गोरा"
+  },
+  "gorey": {
+    "enabled": true,
+    "replacement": "गोरे"
+  },
+  "gori": {
+    "enabled": true,
+    "replacement": "गोरी"
+  },
+  "gubbare": {
+    "enabled": true,
+    "replacement": "गुब्बारे"
+  },
+  "gupshup": {
+    "enabled": true,
+    "replacement": "गपशप"
+  },
+  "gussa": {
+    "enabled": true,
+    "replacement": "ग़ुस्सा"
+  },
+  "gusse": {
+    "enabled": true,
+    "replacement": "गुस्से"
+  },
+  "haal": {
+    "enabled": true,
+    "replacement": "हाल"
+  },
+  "haan": {
+    "enabled": true,
+    "replacement": "हाँ"
+  },
+  "haath": {
+    "enabled": true,
+    "replacement": "हाथ"
+  },
+  "haathon": {
+    "enabled": true,
+    "replacement": "हाथों"
+  },
+  "hadap": {
+    "enabled": true,
+    "replacement": "हड़प"
+  },
+  "hafta": {
+    "enabled": true,
+    "replacement": "हफ्ता"
+  },
+  "hafte": {
+    "enabled": true,
+    "replacement": "हफ्ते"
+  },
+  "hai": {
+    "enabled": true,
+    "replacement": "है"
+  },
+  "hain": {
+    "enabled": true,
+    "replacement": "हैं"
+  },
+  "haina": {
+    "enabled": true,
+    "replacement": "है ना"
+  },
+  "haldi": {
+    "enabled": true,
+    "replacement": "हल्दी"
+  },
+  "halka": {
+    "enabled": true,
+    "replacement": "हल्का"
+  },
+  "halwa": {
+    "enabled": true,
+    "replacement": "हलवा"
+  },
+  "hamaara": {
+    "enabled": true,
+    "replacement": "हमारा"
+  },
+  "hamara": {
+    "enabled": true,
+    "replacement": "हमारा"
+  },
+  "hamare": {
+    "enabled": true,
+    "replacement": "हमारे"
+  },
+  "hamari": {
+    "enabled": true,
+    "replacement": "हमारी"
+  },
+  "hamen": {
+    "enabled": true,
+    "replacement": "हमें"
+  },
+  "hamesha": {
+    "enabled": true,
+    "replacement": "हमेशा"
+  },
+  "hansi": {
+    "enabled": true,
+    "replacement": "हँसी"
+  },
+  "hanso": {
+    "enabled": true,
+    "replacement": "हँसो"
+  },
+  "hansta": {
+    "enabled": true,
+    "replacement": "हँसता"
+  },
+  "hanste": {
+    "enabled": true,
+    "replacement": "हँसते"
+  },
+  "hansti": {
+    "enabled": true,
+    "replacement": "हँसती"
+  },
+  "har": {
+    "enabled": true,
+    "replacement": "हर"
+  },
+  "haram": {
+    "enabled": true,
+    "replacement": "हराम"
+  },
+  "hasane": {
+    "enabled": true,
+    "replacement": "हँसाने"
+  },
+  "hasata": {
+    "enabled": true,
+    "replacement": "हँसाता"
+  },
+  "hasate": {
+    "enabled": true,
+    "replacement": "हँसाते"
+  },
+  "hasati": {
+    "enabled": true,
+    "replacement": "हँसाती"
+  },
+  "haso": {
+    "enabled": true,
+    "replacement": "हसो"
+  },
+  "hasta": {
+    "enabled": true,
+    "replacement": "हँसता"
+  },
+  "hastey": {
+    "enabled": true,
+    "replacement": "हँसते"
+  },
+  "hasti": {
+    "enabled": true,
+    "replacement": "हँसती"
+  },
+  "hatt": {
+    "enabled": true,
+    "replacement": "हट"
+  },
+  "hatya": {
+    "enabled": true,
+    "replacement": "हत्या"
+  },
+  "hazir": {
+    "enabled": true,
+    "replacement": "हाज़िर"
+  },
+  "hee": {
+    "enabled": true,
+    "replacement": "ही"
+  },
+  "hii": {
+    "enabled": true,
+    "replacement": "ही"
+  },
+  "hila": {
+    "enabled": true,
+    "replacement": "हिला"
+  },
+  "hilake": {
+    "enabled": true,
+    "replacement": "हिलाके"
+  },
+  "hilna": {
+    "enabled": true,
+    "replacement": "हिलना"
+  },
+  "hilne": {
+    "enabled": true,
+    "replacement": "हिलने"
+  },
+  "hindi": {
+    "enabled": true,
+    "replacement": "हिन्दी"
+  },
+  "ho": {
+    "enabled": true,
+    "replacement": "हो"
+  },
+  "hoga": {
+    "enabled": true,
+    "replacement": "होगा"
+  },
+  "hogi": {
+    "enabled": true,
+    "replacement": "होगी"
+  },
+  "hona": {
+    "enabled": true,
+    "replacement": "होना"
+  },
+  "hone": {
+    "enabled": true,
+    "replacement": "होने"
+  },
+  "honge": {
+    "enabled": true,
+    "replacement": "होंगे"
+  },
+  "honi": {
+    "enabled": true,
+    "replacement": "होनी"
+  },
+  "hoon": {
+    "enabled": true,
+    "replacement": "हूँ"
+  },
+  "hota": {
+    "enabled": true,
+    "replacement": "होता"
+  },
+  "hote": {
+    "enabled": true,
+    "replacement": "होते"
+  },
+  "hoti": {
+    "enabled": true,
+    "replacement": "होती"
+  },
+  "hoya": {
+    "enabled": true,
+    "replacement": "होया"
+  },
+  "hu": {
+    "enabled": true,
+    "replacement": "हूँ"
+  },
+  "hua": {
+    "enabled": true,
+    "replacement": "हुआ"
+  },
+  "hue": {
+    "enabled": true,
+    "replacement": "हुए"
+  },
+  "hui": {
+    "enabled": true,
+    "replacement": "हुई"
+  },
+  "hum": {
+    "enabled": true,
+    "replacement": "हम"
+  },
+  "humare": {
+    "enabled": true,
+    "replacement": "हमारे"
+  },
+  "humesha": {
+    "enabled": true,
+    "replacement": "हमेशा"
+  },
+  "humko": {
+    "enabled": true,
+    "replacement": "हमको"
+  },
+  "humne": {
+    "enabled": true,
+    "replacement": "हमने"
+  },
+  "humse": {
+    "enabled": true,
+    "replacement": "हमसे"
+  },
+  "hun": {
+    "enabled": true,
+    "replacement": "हूँ"
+  },
+  "hunga": {
+    "enabled": true,
+    "replacement": "हूँगा"
+  },
+  "hungi": {
+    "enabled": true,
+    "replacement": "हूंगी"
+  },
+  "hutt": {
+    "enabled": true,
+    "replacement": "हट"
+  },
+  "huzoor": {
+    "enabled": true,
+    "replacement": "हुज़ूर"
+  },
+  "huzur": {
+    "enabled": true,
+    "replacement": "हुज़ूर"
+  },
+  "idhar": {
+    "enabled": true,
+    "replacement": "इधर"
+  },
+  "ilaaka": {
+    "enabled": true,
+    "replacement": "इलाका"
+  },
+  "ilaake": {
+    "enabled": true,
+    "replacement": "इलाके"
+  },
+  "ilaka": {
+    "enabled": true,
+    "replacement": "इलाका"
+  },
+  "ilake": {
+    "enabled": true,
+    "replacement": "इलाके"
+  },
+  "inhone": {
+    "enabled": true,
+    "replacement": "इन्होंने"
+  },
+  "inka": {
+    "enabled": true,
+    "replacement": "इनका"
+  },
+  "inke": {
+    "enabled": true,
+    "replacement": "इनके"
+  },
+  "inki": {
+    "enabled": true,
+    "replacement": "इनकी"
+  },
+  "insaan": {
+    "enabled": true,
+    "replacement": "इनसान"
+  },
+  "irada": {
+    "enabled": true,
+    "replacement": "इरादा"
+  },
+  "irshaad": {
+    "enabled": true,
+    "replacement": "इरशाद"
+  },
+  "irshad": {
+    "enabled": true,
+    "replacement": "इरशाद"
+  },
+  "ishq": {
+    "enabled": true,
+    "replacement": "इश्क"
+  },
+  "isiliye": {
+    "enabled": true,
+    "replacement": "इसीलिये"
+  },
+  "iska": {
+    "enabled": true,
+    "replacement": "इसका"
+  },
+  "iske": {
+    "enabled": true,
+    "replacement": "इसके"
+  },
+  "iski": {
+    "enabled": true,
+    "replacement": "इसकी"
+  },
+  "isko": {
+    "enabled": true,
+    "replacement": "इसको"
+  },
+  "isliye": {
+    "enabled": true,
+    "replacement": "इसलिए"
+  },
+  "isme": {
+    "enabled": true,
+    "replacement": "इसमे"
+  },
+  "ispe": {
+    "enabled": true,
+    "replacement": "इसपे"
+  },
+  "iss": {
+    "enabled": true,
+    "replacement": "इस"
+  },
+  "isse": {
+    "enabled": true,
+    "replacement": "इससे"
+  },
+  "itna": {
+    "enabled": true,
+    "replacement": "इतना"
+  },
+  "itne": {
+    "enabled": true,
+    "replacement": "इतने"
+  },
+  "itni": {
+    "enabled": true,
+    "replacement": "इतनी"
+  },
+  "ja": {
+    "enabled": true,
+    "replacement": "जा"
+  },
+  "jaa": {
+    "enabled": true,
+    "replacement": "जा"
+  },
+  "jaake": {
+    "enabled": true,
+    "replacement": "जाके"
+  },
+  "jaan": {
+    "enabled": true,
+    "replacement": "जान"
+  },
+  "jaana": {
+    "enabled": true,
+    "replacement": "जाना"
+  },
+  "jaanam": {
+    "enabled": true,
+    "replacement": "मुबारक"
+  },
+  "jaane": {
+    "enabled": true,
+    "replacement": "जाने"
+  },
+  "jaani": {
+    "enabled": true,
+    "replacement": "जानी"
+  },
+  "jaanta": {
+    "enabled": true,
+    "replacement": "जानता"
+  },
+  "jaante": {
+    "enabled": true,
+    "replacement": "जानते"
+  },
+  "jaanti": {
+    "enabled": true,
+    "replacement": "जानती"
+  },
+  "jaanvar": {
+    "enabled": true,
+    "replacement": "जानवर"
+  },
+  "jaata": {
+    "enabled": true,
+    "replacement": "जाता"
+  },
+  "jaate": {
+    "enabled": true,
+    "replacement": "जाते"
+  },
+  "jaati": {
+    "enabled": true,
+    "replacement": "जाती"
+  },
+  "jaaun": {
+    "enabled": true,
+    "replacement": "जाऊं"
+  },
+  "jaaye": {
+    "enabled": true,
+    "replacement": "जाये"
+  },
+  "jaayen": {
+    "enabled": true,
+    "replacement": "जायें"
+  },
+  "jab": {
+    "enabled": true,
+    "replacement": "जब"
+  },
+  "jagah": {
+    "enabled": true,
+    "replacement": "जगह"
+  },
+  "jahan": {
+    "enabled": true,
+    "replacement": "जहाँ"
+  },
+  "jai": {
+    "enabled": true,
+    "replacement": "जय"
+  },
+  "jaisa": {
+    "enabled": true,
+    "replacement": "जैसा"
+  },
+  "jaise": {
+    "enabled": true,
+    "replacement": "जैसे"
+  },
+  "jaisi": {
+    "enabled": true,
+    "replacement": "जैसी"
+  },
+  "jaldi": {
+    "enabled": true,
+    "replacement": "जल्दी"
+  },
+  "jale": {
+    "enabled": true,
+    "replacement": "जले"
+  },
+  "janaab": {
+    "enabled": true,
+    "replacement": "जनाब"
+  },
+  "janab": {
+    "enabled": true,
+    "replacement": "जनाब"
+  },
+  "jani": {
+    "enabled": true,
+    "replacement": "जानी"
+  },
+  "janu": {
+    "enabled": true,
+    "replacement": "जानू"
+  },
+  "janvar": {
+    "enabled": true,
+    "replacement": "जानवर"
+  },
+  "jao": {
+    "enabled": true,
+    "replacement": "जाओ"
+  },
+  "jaoge": {
+    "enabled": true,
+    "replacement": "जाओगे"
+  },
+  "jaogi": {
+    "enabled": true,
+    "replacement": "जाओगी"
+  },
+  "jarurat": {
+    "enabled": true,
+    "replacement": "ज़रूरत"
+  },
+  "jata": {
+    "enabled": true,
+    "replacement": "जाता"
+  },
+  "jati": {
+    "enabled": true,
+    "replacement": "जाती"
+  },
+  "jaun": {
+    "enabled": true,
+    "replacement": "जाऊं"
+  },
+  "jaunga": {
+    "enabled": true,
+    "replacement": "जाऊंगा"
+  },
+  "jaungi": {
+    "enabled": true,
+    "replacement": "जाउंगी"
+  },
+  "jawab": {
+    "enabled": true,
+    "replacement": "जवाब"
+  },
+  "jawan": {
+    "enabled": true,
+    "replacement": "जवान"
+  },
+  "jawani": {
+    "enabled": true,
+    "replacement": "जवानी"
+  },
+  "jaye": {
+    "enabled": true,
+    "replacement": "जाए"
+  },
+  "jayega": {
+    "enabled": true,
+    "replacement": "जायेगा"
+  },
+  "jayegi": {
+    "enabled": true,
+    "replacement": "जायेगी"
+  },
+  "jayenge": {
+    "enabled": true,
+    "replacement": "जायेंगे"
+  },
+  "jee": {
+    "enabled": true,
+    "replacement": "जी"
+  },
+  "jeena": {
+    "enabled": true,
+    "replacement": "जीना"
+  },
+  "jeene": {
+    "enabled": true,
+    "replacement": "जीने"
+  },
+  "jeeta": {
+    "enabled": true,
+    "replacement": "जीता"
+  },
+  "jeete": {
+    "enabled": true,
+    "replacement": "जीते"
+  },
+  "jeeti": {
+    "enabled": true,
+    "replacement": "जीती"
+  },
+  "jhagad": {
+    "enabled": true,
+    "replacement": "झगड़"
+  },
+  "jhagadke": {
+    "enabled": true,
+    "replacement": "झगड़के"
+  },
+  "jhagadna": {
+    "enabled": true,
+    "replacement": "झगड़ना"
+  },
+  "jhagadne": {
+    "enabled": true,
+    "replacement": "झगड़ने"
+  },
+  "jhagda": {
+    "enabled": true,
+    "replacement": "झगड़ा"
+  },
+  "jhak": {
+    "enabled": true,
+    "replacement": "झक"
+  },
+  "jhelna": {
+    "enabled": true,
+    "replacement": "झेलना"
+  },
+  "jhelta": {
+    "enabled": true,
+    "replacement": "झेलता"
+  },
+  "jhelte": {
+    "enabled": true,
+    "replacement": "झेलते"
+  },
+  "jhelti": {
+    "enabled": true,
+    "replacement": "झेलती"
+  },
+  "jhooth": {
+    "enabled": true,
+    "replacement": "झूठ"
+  },
+  "ji": {
+    "enabled": true,
+    "replacement": "जी"
+  },
+  "jis": {
+    "enabled": true,
+    "replacement": "जिस"
+  },
+  "jiska": {
+    "enabled": true,
+    "replacement": "जिसका"
+  },
+  "jiski": {
+    "enabled": true,
+    "replacement": "जिसकी"
+  },
+  "jisko": {
+    "enabled": true,
+    "replacement": "जिसको"
+  },
+  "jitna": {
+    "enabled": true,
+    "replacement": "जितना"
+  },
+  "jitne": {
+    "enabled": true,
+    "replacement": "जितने"
+  },
+  "jitni": {
+    "enabled": true,
+    "replacement": "जितनी"
+  },
+  "jiya": {
+    "enabled": true,
+    "replacement": "जिया"
+  },
+  "jiye": {
+    "enabled": true,
+    "replacement": "जिये"
+  },
+  "jiyo": {
+    "enabled": true,
+    "replacement": "जियो"
+  },
+  "jo": {
+    "enabled": true,
+    "replacement": "जो"
+  },
+  "jodi": {
+    "enabled": true,
+    "replacement": "जोड़ी"
+  },
+  "juda": {
+    "enabled": true,
+    "replacement": "जुदा"
+  },
+  "jul": {
+    "enabled": true,
+    "replacement": "जुल"
+  },
+  "julm": {
+    "enabled": true,
+    "replacement": "ज़ुल्म"
+  },
+  "jyaada": {
+    "enabled": true,
+    "replacement": "ज्यादा"
+  },
+  "jyada": {
+    "enabled": true,
+    "replacement": "ज़्यादा"
+  },
+  "ka": {
+    "enabled": true,
+    "replacement": "का"
+  },
+  "kaafi": {
+    "enabled": true,
+    "replacement": "काफ़ी"
+  },
+  "kaala": {
+    "enabled": true,
+    "replacement": "काला"
+  },
+  "kaam": {
+    "enabled": true,
+    "replacement": "काम"
+  },
+  "kaamu": {
+    "enabled": true,
+    "replacement": "कामु"
+  },
+  "kab": {
+    "enabled": true,
+    "replacement": "कब"
+  },
+  "kabhi": {
+    "enabled": true,
+    "replacement": "कभी"
+  },
+  "kabr": {
+    "enabled": true,
+    "replacement": "कब्र"
+  },
+  "kada": {
+    "enabled": true,
+    "replacement": "కద"
+  },
+  "kadar": {
+    "enabled": true,
+    "replacement": "कदर"
+  },
+  "kafa": {
+    "enabled": true,
+    "replacement": "कफा"
+  },
+  "kafi": {
+    "enabled": true,
+    "replacement": "काफ़ी"
+  },
+  "kaha": {
+    "enabled": true,
+    "replacement": "कहा"
+  },
+  "kahan": {
+    "enabled": true,
+    "replacement": "कहाँ"
+  },
+  "kahani": {
+    "enabled": true,
+    "replacement": "कहानी"
+  },
+  "kahi": {
+    "enabled": true,
+    "replacement": "कही"
+  },
+  "kahin": {
+    "enabled": true,
+    "replacement": "कहीँ"
+  },
+  "kaho": {
+    "enabled": true,
+    "replacement": "कहो"
+  },
+  "kahoge": {
+    "enabled": true,
+    "replacement": "कहोगे"
+  },
+  "kahunga": {
+    "enabled": true,
+    "replacement": "कहूँगा"
+  },
+  "kahungi": {
+    "enabled": true,
+    "replacement": "कहूँगी"
+  },
+  "kaisa": {
+    "enabled": true,
+    "replacement": "कैसा"
+  },
+  "kaise": {
+    "enabled": true,
+    "replacement": "कैसे"
+  },
+  "kaisi": {
+    "enabled": true,
+    "replacement": "कैसी"
+  },
+  "kaku": {
+    "enabled": true,
+    "replacement": "काकू"
+  },
+  "kal": {
+    "enabled": true,
+    "replacement": "कल"
+  },
+  "kala": {
+    "enabled": true,
+    "replacement": "काला"
+  },
+  "kam": {
+    "enabled": true,
+    "replacement": "कम"
+  },
+  "kambakhat": {
+    "enabled": true,
+    "replacement": "कमबख्त"
+  },
+  "kambakht": {
+    "enabled": true,
+    "replacement": "कमबख्त"
+  },
+  "kambhakht": {
+    "enabled": true,
+    "replacement": "कमबख्त"
+  },
+  "kambhakt": {
+    "enabled": true,
+    "replacement": "कमबख्त"
+  },
+  "kamina": {
+    "enabled": true,
+    "replacement": "कमीना"
+  },
+  "kamini": {
+    "enabled": true,
+    "replacement": "कमीनी"
+  },
+  "kanjoos": {
+    "enabled": true,
+    "replacement": "कंजूस"
+  },
+  "kanjoosi": {
+    "enabled": true,
+    "replacement": "कंजूसी"
+  },
+  "kanjusi": {
+    "enabled": true,
+    "replacement": "कंजूसी"
+  },
+  "kar": {
+    "enabled": true,
+    "replacement": "कर"
+  },
+  "kara": {
+    "enabled": true,
+    "replacement": "करा"
+  },
+  "karao": {
+    "enabled": true,
+    "replacement": "कराओ"
+  },
+  "karata": {
+    "enabled": true,
+    "replacement": "कराता"
+  },
+  "karate": {
+    "enabled": true,
+    "replacement": "कराते"
+  },
+  "karati": {
+    "enabled": true,
+    "replacement": "कराती"
+  },
+  "karaunga": {
+    "enabled": true,
+    "replacement": "कराऊंगा"
+  },
+  "karaungi": {
+    "enabled": true,
+    "replacement": "कराऊंगी"
+  },
+  "karaya": {
+    "enabled": true,
+    "replacement": "कराया"
+  },
+  "kare": {
+    "enabled": true,
+    "replacement": "करें"
+  },
+  "karega": {
+    "enabled": true,
+    "replacement": "करेगा"
+  },
+  "karegi": {
+    "enabled": true,
+    "replacement": "करेगी"
+  },
+  "karen": {
+    "enabled": true,
+    "replacement": "करें"
+  },
+  "karenge": {
+    "enabled": true,
+    "replacement": "करेंगे"
+  },
+  "karke": {
+    "enabled": true,
+    "replacement": "करके"
+  },
+  "karlo": {
+    "enabled": true,
+    "replacement": "कर लो"
+  },
+  "karna": {
+    "enabled": true,
+    "replacement": "करना"
+  },
+  "karne": {
+    "enabled": true,
+    "replacement": "करने"
+  },
+  "karo": {
+    "enabled": true,
+    "replacement": "करो"
+  },
+  "karoge": {
+    "enabled": true,
+    "replacement": "करोगे"
+  },
+  "karogi": {
+    "enabled": true,
+    "replacement": "करोगी"
+  },
+  "karta": {
+    "enabled": true,
+    "replacement": "करता"
+  },
+  "karte": {
+    "enabled": true,
+    "replacement": "करते"
+  },
+  "karti": {
+    "enabled": true,
+    "replacement": "करती"
+  },
+  "karun": {
+    "enabled": true,
+    "replacement": "करूँ"
+  },
+  "karunga": {
+    "enabled": true,
+    "replacement": "करुंगा"
+  },
+  "karungi": {
+    "enabled": true,
+    "replacement": "करुँगी"
+  },
+  "karvaya": {
+    "enabled": true,
+    "replacement": "करवाया"
+  },
+  "kasam": {
+    "enabled": true,
+    "replacement": "कसम"
+  },
+  "kaun": {
+    "enabled": true,
+    "replacement": "कौन"
+  },
+  "kauno": {
+    "enabled": true,
+    "replacement": "कौनो"
+  },
+  "kaunsa": {
+    "enabled": true,
+    "replacement": "कौनसा"
+  },
+  "kaunse": {
+    "enabled": true,
+    "replacement": "कौनसे"
+  },
+  "kaunsi": {
+    "enabled": true,
+    "replacement": "कौनसी"
+  },
+  "ke": {
+    "enabled": true,
+    "replacement": "के"
+  },
+  "kee": {
+    "enabled": true,
+    "replacement": "की"
+  },
+  "kehna": {
+    "enabled": true,
+    "replacement": "कहना"
+  },
+  "kela": {
+    "enabled": true,
+    "replacement": "केला"
+  },
+  "kele": {
+    "enabled": true,
+    "replacement": "केले"
+  },
+  "kha": {
+    "enabled": true,
+    "replacement": "खा"
+  },
+  "khaali": {
+    "enabled": true,
+    "replacement": "खाली"
+  },
+  "khaana": {
+    "enabled": true,
+    "replacement": "खाना"
+  },
+  "khaane": {
+    "enabled": true,
+    "replacement": "खाने"
+  },
+  "khaaya": {
+    "enabled": true,
+    "replacement": "खाया"
+  },
+  "khaayen": {
+    "enabled": true,
+    "replacement": "खायें"
+  },
+  "khaayi": {
+    "enabled": true,
+    "replacement": "खायी"
+  },
+  "khake": {
+    "enabled": true,
+    "replacement": "खाके"
+  },
+  "khalenge": {
+    "enabled": true,
+    "replacement": "खालेंगे"
+  },
+  "khali": {
+    "enabled": true,
+    "replacement": "खाली"
+  },
+  "khaliya": {
+    "enabled": true,
+    "replacement": "खालिया"
+  },
+  "khalo": {
+    "enabled": true,
+    "replacement": "खालो"
+  },
+  "khalunga": {
+    "enabled": true,
+    "replacement": "खालूँगा"
+  },
+  "khalungi": {
+    "enabled": true,
+    "replacement": "खालूंगी"
+  },
+  "khana": {
+    "enabled": true,
+    "replacement": "खाना"
+  },
+  "khane": {
+    "enabled": true,
+    "replacement": "खाने"
+  },
+  "khao": {
+    "enabled": true,
+    "replacement": "खाओ"
+  },
+  "khaoge": {
+    "enabled": true,
+    "replacement": "खाओगे"
+  },
+  "khaogi": {
+    "enabled": true,
+    "replacement": "खाओगी"
+  },
+  "kharab": {
+    "enabled": true,
+    "replacement": "ख़राब"
+  },
+  "kharcha": {
+    "enabled": true,
+    "replacement": "खर्चा"
+  },
+  "kharid": {
+    "enabled": true,
+    "replacement": "ख़रीद"
+  },
+  "kharida": {
+    "enabled": true,
+    "replacement": "ख़रीदा"
+  },
+  "kharidenge": {
+    "enabled": true,
+    "replacement": "खरीदेंगे"
+  },
+  "kharidna": {
+    "enabled": true,
+    "replacement": "खरीदना"
+  },
+  "kharidne": {
+    "enabled": true,
+    "replacement": "खरीदने"
+  },
+  "kharido": {
+    "enabled": true,
+    "replacement": "ख़रीदो"
+  },
+  "kharidoge": {
+    "enabled": true,
+    "replacement": "खरीदोगे"
+  },
+  "kharidogi": {
+    "enabled": true,
+    "replacement": "खरीदोगी"
+  },
+  "kharidta": {
+    "enabled": true,
+    "replacement": "खरीदता"
+  },
+  "kharidte": {
+    "enabled": true,
+    "replacement": "खरीदते"
+  },
+  "kharidtha": {
+    "enabled": true,
+    "replacement": "खरीदता"
+  },
+  "kharidthe": {
+    "enabled": true,
+    "replacement": "खरीदते"
+  },
+  "kharidthi": {
+    "enabled": true,
+    "replacement": "खरीदती"
+  },
+  "kharidti": {
+    "enabled": true,
+    "replacement": "खरीदती"
+  },
+  "kharidun": {
+    "enabled": true,
+    "replacement": "खरीदूं"
+  },
+  "khat": {
+    "enabled": true,
+    "replacement": "ख़त"
+  },
+  "khata": {
+    "enabled": true,
+    "replacement": "खाता"
+  },
+  "khatam": {
+    "enabled": true,
+    "replacement": "ख़तम"
+  },
+  "khatar": {
+    "enabled": true,
+    "replacement": "खटर"
+  },
+  "khate": {
+    "enabled": true,
+    "replacement": "खाते"
+  },
+  "khati": {
+    "enabled": true,
+    "replacement": "खाती"
+  },
+  "khaunga": {
+    "enabled": true,
+    "replacement": "खाऊंगा"
+  },
+  "khaungi": {
+    "enabled": true,
+    "replacement": "खाऊंगी"
+  },
+  "khaya": {
+    "enabled": true,
+    "replacement": "खाया"
+  },
+  "khayaal": {
+    "enabled": true,
+    "replacement": "ख़याल"
+  },
+  "khayal": {
+    "enabled": true,
+    "replacement": "ख़याल"
+  },
+  "khaye": {
+    "enabled": true,
+    "replacement": "खाये"
+  },
+  "khayega": {
+    "enabled": true,
+    "replacement": "खायेगा"
+  },
+  "khayen": {
+    "enabled": true,
+    "replacement": "खायें"
+  },
+  "khayenge": {
+    "enabled": true,
+    "replacement": "खायेंगे"
+  },
+  "khayi": {
+    "enabled": true,
+    "replacement": "खायी"
+  },
+  "khel": {
+    "enabled": true,
+    "replacement": "खेल"
+  },
+  "khela": {
+    "enabled": true,
+    "replacement": "खेला"
+  },
+  "khele": {
+    "enabled": true,
+    "replacement": "खेले"
+  },
+  "khelen": {
+    "enabled": true,
+    "replacement": "खेलें"
+  },
+  "kheli": {
+    "enabled": true,
+    "replacement": "खेली"
+  },
+  "khelna": {
+    "enabled": true,
+    "replacement": "खेलना"
+  },
+  "khelne": {
+    "enabled": true,
+    "replacement": "खेलने"
+  },
+  "khelo": {
+    "enabled": true,
+    "replacement": "खेलो"
+  },
+  "khelta": {
+    "enabled": true,
+    "replacement": "खेलता"
+  },
+  "khelte": {
+    "enabled": true,
+    "replacement": "खेलते"
+  },
+  "khelti": {
+    "enabled": true,
+    "replacement": "खेलती"
+  },
+  "khet": {
+    "enabled": true,
+    "replacement": "खेत"
+  },
+  "khilona": {
+    "enabled": true,
+    "replacement": "खिलौना"
+  },
+  "khit": {
+    "enabled": true,
+    "replacement": "खिट"
+  },
+  "kho": {
+    "enabled": true,
+    "replacement": "खो"
+  },
+  "khol": {
+    "enabled": true,
+    "replacement": "खोल"
+  },
+  "kholke": {
+    "enabled": true,
+    "replacement": "खोलके"
+  },
+  "kholna": {
+    "enabled": true,
+    "replacement": "खोलना"
+  },
+  "kholne": {
+    "enabled": true,
+    "replacement": "खोलने"
+  },
+  "kholta": {
+    "enabled": true,
+    "replacement": "खोलता"
+  },
+  "kholte": {
+    "enabled": true,
+    "replacement": "खोलते"
+  },
+  "kholti": {
+    "enabled": true,
+    "replacement": "खोलती"
+  },
+  "khona": {
+    "enabled": true,
+    "replacement": "खोना"
+  },
+  "khoob": {
+    "enabled": true,
+    "replacement": "खूब"
+  },
+  "khoobsoorat": {
+    "enabled": true,
+    "replacement": "खूबसूरत"
+  },
+  "khoobsurat": {
+    "enabled": true,
+    "replacement": "खूबसूरत"
+  },
+  "khoya": {
+    "enabled": true,
+    "replacement": "खोया"
+  },
+  "khub": {
+    "enabled": true,
+    "replacement": "खूब"
+  },
+  "khubsurat": {
+    "enabled": true,
+    "replacement": "खूबसूरत"
+  },
+  "khud": {
+    "enabled": true,
+    "replacement": "ख़ुद"
+  },
+  "khul": {
+    "enabled": true,
+    "replacement": "खुल"
+  },
+  "khula": {
+    "enabled": true,
+    "replacement": "खुला"
+  },
+  "khulna": {
+    "enabled": true,
+    "replacement": "खुलना"
+  },
+  "khulta": {
+    "enabled": true,
+    "replacement": "खुलता"
+  },
+  "khulte": {
+    "enabled": true,
+    "replacement": "खुलते"
+  },
+  "khulti": {
+    "enabled": true,
+    "replacement": "खुलती"
+  },
+  "khusboo": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "khusbu": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "khush": {
+    "enabled": true,
+    "replacement": "खुश"
+  },
+  "khushboo": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "khushbu": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "khushi": {
+    "enabled": true,
+    "replacement": "खुशी"
+  },
+  "ki": {
+    "enabled": true,
+    "replacement": "की"
+  },
+  "kidhar": {
+    "enabled": true,
+    "replacement": "किधर"
+  },
+  "kijiye": {
+    "enabled": true,
+    "replacement": "कीजिये"
+  },
+  "kintu": {
+    "enabled": true,
+    "replacement": "किंतु"
+  },
+  "kis": {
+    "enabled": true,
+    "replacement": "किस"
+  },
+  "kisi": {
+    "enabled": true,
+    "replacement": "किसी"
+  },
+  "kisika": {
+    "enabled": true,
+    "replacement": "किसीका"
+  },
+  "kisike": {
+    "enabled": true,
+    "replacement": "किसीके"
+  },
+  "kisiki": {
+    "enabled": true,
+    "replacement": "किसीकी"
+  },
+  "kisiko": {
+    "enabled": true,
+    "replacement": "किसीको"
+  },
+  "kisine": {
+    "enabled": true,
+    "replacement": "किसीने"
+  },
+  "kisise": {
+    "enabled": true,
+    "replacement": "किसीसे"
+  },
+  "kiska": {
+    "enabled": true,
+    "replacement": "किसका"
+  },
+  "kiske": {
+    "enabled": true,
+    "replacement": "किसके"
+  },
+  "kiski": {
+    "enabled": true,
+    "replacement": "किसकी"
+  },
+  "kisko": {
+    "enabled": true,
+    "replacement": "किसको"
+  },
+  "kisliye": {
+    "enabled": true,
+    "replacement": "किसलिए"
+  },
+  "kismat": {
+    "enabled": true,
+    "replacement": "किस्मत"
+  },
+  "kisne": {
+    "enabled": true,
+    "replacement": "किसने"
+  },
+  "kisse": {
+    "enabled": true,
+    "replacement": "किस्से"
+  },
+  "kitna": {
+    "enabled": true,
+    "replacement": "कितना"
+  },
+  "kitne": {
+    "enabled": true,
+    "replacement": "कितने"
+  },
+  "kitni": {
+    "enabled": true,
+    "replacement": "कितनी"
+  },
+  "kiya": {
+    "enabled": true,
+    "replacement": "किया"
+  },
+  "kiye": {
+    "enabled": true,
+    "replacement": "किये"
+  },
+  "ko": {
+    "enabled": true,
+    "replacement": "को"
+  },
+  "koi": {
+    "enabled": true,
+    "replacement": "कोई"
+  },
+  "koshish": {
+    "enabled": true,
+    "replacement": "कोशिश"
+  },
+  "kripa": {
+    "enabled": true,
+    "replacement": "कृपा"
+  },
+  "kuch": {
+    "enabled": true,
+    "replacement": "कुछ"
+  },
+  "kuda": {
+    "enabled": true,
+    "replacement": "కూడా"
+  },
+  "kum": {
+    "enabled": true,
+    "replacement": "कम"
+  },
+  "kusboo": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "kushboo": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "kushbu": {
+    "enabled": true,
+    "replacement": "खुशबू"
+  },
+  "kutta": {
+    "enabled": true,
+    "replacement": "कुत्ता"
+  },
+  "kya": {
+    "enabled": true,
+    "replacement": "क्या"
+  },
+  "kyon": {
+    "enabled": true,
+    "replacement": "क्यों"
+  },
+  "kyoo": {
+    "enabled": true,
+    "replacement": "क्यूं"
+  },
+  "kyoon": {
+    "enabled": true,
+    "replacement": "क्यूं"
+  },
+  "kyu": {
+    "enabled": true,
+    "replacement": "क्यों"
+  },
+  "kyun": {
+    "enabled": true,
+    "replacement": "क्यों"
+  },
+  "laad": {
+    "enabled": true,
+    "replacement": "लाड"
+  },
+  "laadla": {
+    "enabled": true,
+    "replacement": "लाडला"
+  },
+  "laaj": {
+    "enabled": true,
+    "replacement": "लाज"
+  },
+  "laake": {
+    "enabled": true,
+    "replacement": "लाके"
+  },
+  "laal": {
+    "enabled": true,
+    "replacement": "लाल"
+  },
+  "laane": {
+    "enabled": true,
+    "replacement": "लाने"
+  },
+  "laaun": {
+    "enabled": true,
+    "replacement": "लाऊं"
+  },
+  "laaya": {
+    "enabled": true,
+    "replacement": "लाया"
+  },
+  "laaye": {
+    "enabled": true,
+    "replacement": "लाये"
+  },
+  "laayenge": {
+    "enabled": true,
+    "replacement": "लायेंगे"
+  },
+  "laayi": {
+    "enabled": true,
+    "replacement": "लायी"
+  },
+  "lad": {
+    "enabled": true,
+    "replacement": "लड़"
+  },
+  "ladai": {
+    "enabled": true,
+    "replacement": "लडाई"
+  },
+  "ladka": {
+    "enabled": true,
+    "replacement": "लड़का"
+  },
+  "ladke": {
+    "enabled": true,
+    "replacement": "लड़के"
+  },
+  "ladki": {
+    "enabled": true,
+    "replacement": "लड़की"
+  },
+  "ladkiyan": {
+    "enabled": true,
+    "replacement": "लड़कियां"
+  },
+  "ladkiyon": {
+    "enabled": true,
+    "replacement": "लड़कियों"
+  },
+  "ladla": {
+    "enabled": true,
+    "replacement": "लाडला"
+  },
+  "ladne": {
+    "enabled": true,
+    "replacement": "लड़ने"
+  },
+  "lado": {
+    "enabled": true,
+    "replacement": "लडो"
+  },
+  "ladta": {
+    "enabled": true,
+    "replacement": "लड़ता"
+  },
+  "ladte": {
+    "enabled": true,
+    "replacement": "लड़ते"
+  },
+  "ladti": {
+    "enabled": true,
+    "replacement": "लड़ती"
+  },
+  "lag": {
+    "enabled": true,
+    "replacement": "लग"
+  },
+  "laga": {
+    "enabled": true,
+    "replacement": "लगा"
+  },
+  "lagake": {
+    "enabled": true,
+    "replacement": "लगाके"
+  },
+  "lagale": {
+    "enabled": true,
+    "replacement": "लगाले"
+  },
+  "lagana": {
+    "enabled": true,
+    "replacement": "लगाना"
+  },
+  "lagane": {
+    "enabled": true,
+    "replacement": "लगाने"
+  },
+  "lagao": {
+    "enabled": true,
+    "replacement": "लगाओ"
+  },
+  "lagaya": {
+    "enabled": true,
+    "replacement": "लगाया"
+  },
+  "lage": {
+    "enabled": true,
+    "replacement": "लगे"
+  },
+  "lagega": {
+    "enabled": true,
+    "replacement": "लगेगा"
+  },
+  "lagi": {
+    "enabled": true,
+    "replacement": "लगी"
+  },
+  "lagna": {
+    "enabled": true,
+    "replacement": "लगना"
+  },
+  "lagta": {
+    "enabled": true,
+    "replacement": "लगता"
+  },
+  "lagte": {
+    "enabled": true,
+    "replacement": "लगते"
+  },
+  "lagti": {
+    "enabled": true,
+    "replacement": "लगती"
+  },
+  "lal": {
+    "enabled": true,
+    "replacement": "लाल"
+  },
+  "lala": {
+    "enabled": true,
+    "replacement": "लाला"
+  },
+  "lallu": {
+    "enabled": true,
+    "replacement": "लल्लू"
+  },
+  "lalu": {
+    "enabled": true,
+    "replacement": "लालू"
+  },
+  "lamba": {
+    "enabled": true,
+    "replacement": "लम्बा"
+  },
+  "lambi": {
+    "enabled": true,
+    "replacement": "लम्बी"
+  },
+  "lao": {
+    "enabled": true,
+    "replacement": "लाओ"
+  },
+  "laun": {
+    "enabled": true,
+    "replacement": "लाऊं"
+  },
+  "launda": {
+    "enabled": true,
+    "replacement": "लौंडा"
+  },
+  "launde": {
+    "enabled": true,
+    "replacement": "लौंडे"
+  },
+  "launga": {
+    "enabled": true,
+    "replacement": "लाऊंगा"
+  },
+  "laut": {
+    "enabled": true,
+    "replacement": "लौट"
+  },
+  "lauta": {
+    "enabled": true,
+    "replacement": "लौटा"
+  },
+  "laute": {
+    "enabled": true,
+    "replacement": "लौटे"
+  },
+  "lauti": {
+    "enabled": true,
+    "replacement": "लौटी"
+  },
+  "lautke": {
+    "enabled": true,
+    "replacement": "लौटके"
+  },
+  "laye": {
+    "enabled": true,
+    "replacement": "लाये"
+  },
+  "layenge": {
+    "enabled": true,
+    "replacement": "लायेंगे"
+  },
+  "le": {
+    "enabled": true,
+    "replacement": "ले"
+  },
+  "lega": {
+    "enabled": true,
+    "replacement": "लेगा"
+  },
+  "legi": {
+    "enabled": true,
+    "replacement": "लेगी"
+  },
+  "leke": {
+    "enabled": true,
+    "replacement": "लेके"
+  },
+  "lekin": {
+    "enabled": true,
+    "replacement": "लेकिन"
+  },
+  "lelo": {
+    "enabled": true,
+    "replacement": "ले लो"
+  },
+  "lena": {
+    "enabled": true,
+    "replacement": "लेना"
+  },
+  "lene": {
+    "enabled": true,
+    "replacement": "लेने"
+  },
+  "lenge": {
+    "enabled": true,
+    "replacement": "लेंगे"
+  },
+  "leta": {
+    "enabled": true,
+    "replacement": "लेता"
+  },
+  "lete": {
+    "enabled": true,
+    "replacement": "लेते"
+  },
+  "leti": {
+    "enabled": true,
+    "replacement": "लेती"
+  },
+  "lijiye": {
+    "enabled": true,
+    "replacement": "लीजिये"
+  },
+  "likh": {
+    "enabled": true,
+    "replacement": "लिख"
+  },
+  "likha": {
+    "enabled": true,
+    "replacement": "लिखा"
+  },
+  "likhlo": {
+    "enabled": true,
+    "replacement": "लिख्लो"
+  },
+  "likho": {
+    "enabled": true,
+    "replacement": "लिखो"
+  },
+  "likhta": {
+    "enabled": true,
+    "replacement": "लिखता"
+  },
+  "likhte": {
+    "enabled": true,
+    "replacement": "लिखते"
+  },
+  "likhti": {
+    "enabled": true,
+    "replacement": "लिखती"
+  },
+  "liya": {
+    "enabled": true,
+    "replacement": "लिया"
+  },
+  "liye": {
+    "enabled": true,
+    "replacement": "लिये"
+  },
+  "lo": {
+    "enabled": true,
+    "replacement": "लो"
+  },
+  "log": {
+    "enabled": true,
+    "replacement": "लोग"
+  },
+  "loge": {
+    "enabled": true,
+    "replacement": "लोगे"
+  },
+  "logon": {
+    "enabled": true,
+    "replacement": "लोगों"
+  },
+  "loonga": {
+    "enabled": true,
+    "replacement": "लूँगा"
+  },
+  "lun": {
+    "enabled": true,
+    "replacement": "लूँ"
+  },
+  "lunga": {
+    "enabled": true,
+    "replacement": "लूँगा"
+  },
+  "maa": {
+    "enabled": true,
+    "replacement": "माँ"
+  },
+  "maaf": {
+    "enabled": true,
+    "replacement": "माफ़"
+  },
+  "maafi": {
+    "enabled": true,
+    "replacement": "माफ़ी"
+  },
+  "maahir": {
+    "enabled": true,
+    "replacement": "माहिर"
+  },
+  "maal": {
+    "enabled": true,
+    "replacement": "माल"
+  },
+  "maan": {
+    "enabled": true,
+    "replacement": "मान"
+  },
+  "maana": {
+    "enabled": true,
+    "replacement": "माना"
+  },
+  "maane": {
+    "enabled": true,
+    "replacement": "माने"
+  },
+  "maangta": {
+    "enabled": true,
+    "replacement": "मांगता"
+  },
+  "maangte": {
+    "enabled": true,
+    "replacement": "मांगते"
+  },
+  "maangtha": {
+    "enabled": true,
+    "replacement": "मांगता"
+  },
+  "maangthe": {
+    "enabled": true,
+    "replacement": "मांगते"
+  },
+  "maangthi": {
+    "enabled": true,
+    "replacement": "मांगती"
+  },
+  "maangti": {
+    "enabled": true,
+    "replacement": "मांगती"
+  },
+  "maani": {
+    "enabled": true,
+    "replacement": "मानी"
+  },
+  "maar": {
+    "enabled": true,
+    "replacement": "मार"
+  },
+  "maarke": {
+    "enabled": true,
+    "replacement": "मारके"
+  },
+  "maarna": {
+    "enabled": true,
+    "replacement": "मारना"
+  },
+  "maarne": {
+    "enabled": true,
+    "replacement": "मारने"
+  },
+  "maaro": {
+    "enabled": true,
+    "replacement": "मारो"
+  },
+  "maarta": {
+    "enabled": true,
+    "replacement": "मारता"
+  },
+  "maarte": {
+    "enabled": true,
+    "replacement": "मारते"
+  },
+  "maarti": {
+    "enabled": true,
+    "replacement": "मारती"
+  },
+  "maarunga": {
+    "enabled": true,
+    "replacement": "मारूंगा"
+  },
+  "maf": {
+    "enabled": true,
+    "replacement": "माफ़"
+  },
+  "mafi": {
+    "enabled": true,
+    "replacement": "माफ़ी"
+  },
+  "magar": {
+    "enabled": true,
+    "replacement": "मगर"
+  },
+  "mahan": {
+    "enabled": true,
+    "replacement": "महान"
+  },
+  "mahina": {
+    "enabled": true,
+    "replacement": "महीना"
+  },
+  "mahine": {
+    "enabled": true,
+    "replacement": "महीने"
+  },
+  "mahir": {
+    "enabled": true,
+    "replacement": "माहिर"
+  },
+  "mai": {
+    "enabled": true,
+    "replacement": "मैं"
+  },
+  "maine": {
+    "enabled": true,
+    "replacement": "मैंने"
+  },
+  "makhi": {
+    "enabled": true,
+    "replacement": "मक्खी"
+  },
+  "maloom": {
+    "enabled": true,
+    "replacement": "मालूम"
+  },
+  "malum": {
+    "enabled": true,
+    "replacement": "मालूम"
+  },
+  "mama": {
+    "enabled": true,
+    "replacement": "मामा"
+  },
+  "mana": {
+    "enabled": true,
+    "replacement": "मना"
+  },
+  "manana": {
+    "enabled": true,
+    "replacement": "मनाना"
+  },
+  "manao": {
+    "enabled": true,
+    "replacement": "मनाओ"
+  },
+  "manega": {
+    "enabled": true,
+    "replacement": "मानेगा"
+  },
+  "manegi": {
+    "enabled": true,
+    "replacement": "मानेगी"
+  },
+  "manenge": {
+    "enabled": true,
+    "replacement": "मानेंगे"
+  },
+  "mangta": {
+    "enabled": true,
+    "replacement": "मांगता"
+  },
+  "mangte": {
+    "enabled": true,
+    "replacement": "मांगते"
+  },
+  "mangtha": {
+    "enabled": true,
+    "replacement": "मांगता"
+  },
+  "mangthe": {
+    "enabled": true,
+    "replacement": "मांगते"
+  },
+  "mangthi": {
+    "enabled": true,
+    "replacement": "मांगती"
+  },
+  "mangti": {
+    "enabled": true,
+    "replacement": "मांगती"
+  },
+  "mann": {
+    "enabled": true,
+    "replacement": "मन"
+  },
+  "manogi": {
+    "enabled": true,
+    "replacement": "मानोगी"
+  },
+  "manta": {
+    "enabled": true,
+    "replacement": "मानता"
+  },
+  "mante": {
+    "enabled": true,
+    "replacement": "मानते"
+  },
+  "manti": {
+    "enabled": true,
+    "replacement": "मानती"
+  },
+  "mar": {
+    "enabled": true,
+    "replacement": "मर"
+  },
+  "marne": {
+    "enabled": true,
+    "replacement": "मरने"
+  },
+  "maro": {
+    "enabled": true,
+    "replacement": "मरो"
+  },
+  "marunga": {
+    "enabled": true,
+    "replacement": "मरूंगा"
+  },
+  "marzi": {
+    "enabled": true,
+    "replacement": "मर्ज़ी"
+  },
+  "masti": {
+    "enabled": true,
+    "replacement": "मस्ती"
+  },
+  "mat": {
+    "enabled": true,
+    "replacement": "मत"
+  },
+  "matashri": {
+    "enabled": true,
+    "replacement": "माताश्री"
+  },
+  "matlab": {
+    "enabled": true,
+    "replacement": "मतलब"
+  },
+  "matlabi": {
+    "enabled": true,
+    "replacement": "मतलबी"
+  },
+  "mauj": {
+    "enabled": true,
+    "replacement": "मौज"
+  },
+  "mausam": {
+    "enabled": true,
+    "replacement": "मौसम"
+  },
+  "maza": {
+    "enabled": true,
+    "replacement": "मज़ा"
+  },
+  "mazaak": {
+    "enabled": true,
+    "replacement": "मज़ाक"
+  },
+  "mazak": {
+    "enabled": true,
+    "replacement": "मज़ाक"
+  },
+  "mei": {
+    "enabled": true,
+    "replacement": "में"
+  },
+  "mein": {
+    "enabled": true,
+    "replacement": "में"
+  },
+  "mela": {
+    "enabled": true,
+    "replacement": "मेला"
+  },
+  "memsaab": {
+    "enabled": true,
+    "replacement": "मेमसाहिब"
+  },
+  "memsahib": {
+    "enabled": true,
+    "replacement": "मेमसाहिब"
+  },
+  "mera": {
+    "enabled": true,
+    "replacement": "मेरा"
+  },
+  "mere": {
+    "enabled": true,
+    "replacement": "मेरे"
+  },
+  "meri": {
+    "enabled": true,
+    "replacement": "मेरी"
+  },
+  "mil": {
+    "enabled": true,
+    "replacement": "मिल"
+  },
+  "mila": {
+    "enabled": true,
+    "replacement": "मिला"
+  },
+  "milake": {
+    "enabled": true,
+    "replacement": "मिलाके"
+  },
+  "milane": {
+    "enabled": true,
+    "replacement": "मिलाने"
+  },
+  "milega": {
+    "enabled": true,
+    "replacement": "मिलेगा"
+  },
+  "milegi": {
+    "enabled": true,
+    "replacement": "मिलेगी"
+  },
+  "milenge": {
+    "enabled": true,
+    "replacement": "मिलेंगे"
+  },
+  "miley": {
+    "enabled": true,
+    "replacement": "मिले"
+  },
+  "mili": {
+    "enabled": true,
+    "replacement": "मिली"
+  },
+  "milke": {
+    "enabled": true,
+    "replacement": "मिलके"
+  },
+  "milna": {
+    "enabled": true,
+    "replacement": "मिलना"
+  },
+  "milne": {
+    "enabled": true,
+    "replacement": "मिलने"
+  },
+  "milo": {
+    "enabled": true,
+    "replacement": "मिलो"
+  },
+  "milta": {
+    "enabled": true,
+    "replacement": "मिलता"
+  },
+  "milte": {
+    "enabled": true,
+    "replacement": "मिलते"
+  },
+  "milti": {
+    "enabled": true,
+    "replacement": "मिलती"
+  },
+  "moocche": {
+    "enabled": true,
+    "replacement": "मूछें"
+  },
+  "moocchein": {
+    "enabled": true,
+    "replacement": "मूछें"
+  },
+  "mooche": {
+    "enabled": true,
+    "replacement": "मूछें"
+  },
+  "moochein": {
+    "enabled": true,
+    "replacement": "मूछें"
+  },
+  "mota": {
+    "enabled": true,
+    "replacement": "मोटा"
+  },
+  "mote": {
+    "enabled": true,
+    "replacement": "मोटे"
+  },
+  "moti": {
+    "enabled": true,
+    "replacement": "मोटी"
+  },
+  "motu": {
+    "enabled": true,
+    "replacement": "मोटू"
+  },
+  "mubarak": {
+    "enabled": true,
+    "replacement": "मुबारक"
+  },
+  "mucche": {
+    "enabled": true,
+    "replacement": "मूछें"
+  },
+  "mujhe": {
+    "enabled": true,
+    "replacement": "मुझे"
+  },
+  "mujhko": {
+    "enabled": true,
+    "replacement": "मुझको"
+  },
+  "mujhse": {
+    "enabled": true,
+    "replacement": "मुझसे"
+  },
+  "mundan": {
+    "enabled": true,
+    "replacement": "मुंडन"
+  },
+  "munna": {
+    "enabled": true,
+    "replacement": "मुन्ना"
+  },
+  "munni": {
+    "enabled": true,
+    "replacement": "मुन्नी"
+  },
+  "murgi": {
+    "enabled": true,
+    "replacement": "मुर्गी"
+  },
+  "murzi": {
+    "enabled": true,
+    "replacement": "मर्ज़ी"
+  },
+  "mushkil": {
+    "enabled": true,
+    "replacement": "मुश्किल"
+  },
+  "na": {
+    "enabled": true,
+    "replacement": "ना"
+  },
+  "naach": {
+    "enabled": true,
+    "replacement": "नाच"
+  },
+  "naacho": {
+    "enabled": true,
+    "replacement": "नाचो"
+  },
+  "naachun": {
+    "enabled": true,
+    "replacement": "नाचूँ"
+  },
+  "naak": {
+    "enabled": true,
+    "replacement": "नाक"
+  },
+  "naam": {
+    "enabled": true,
+    "replacement": "नाम"
+  },
+  "naari": {
+    "enabled": true,
+    "replacement": "नारी"
+  },
+  "naate": {
+    "enabled": true,
+    "replacement": "नाते"
+  },
+  "nach": {
+    "enabled": true,
+    "replacement": "नाच"
+  },
+  "nacha": {
+    "enabled": true,
+    "replacement": "नचा"
+  },
+  "nachata": {
+    "enabled": true,
+    "replacement": "नचाता"
+  },
+  "nachate": {
+    "enabled": true,
+    "replacement": "नचाते"
+  },
+  "nachati": {
+    "enabled": true,
+    "replacement": "नचाती"
+  },
+  "nachun": {
+    "enabled": true,
+    "replacement": "नाचूँ"
+  },
+  "nahi": {
+    "enabled": true,
+    "replacement": "नहीं"
+  },
+  "nahin": {
+    "enabled": true,
+    "replacement": "नहीं"
+  },
+  "nai": {
+    "enabled": true,
+    "replacement": "नाइ"
+  },
+  "nakhre": {
+    "enabled": true,
+    "replacement": "नखरे"
+  },
+  "namak": {
+    "enabled": true,
+    "replacement": "नमक"
+  },
+  "namaste": {
+    "enabled": true,
+    "replacement": "नमस्ते"
+  },
+  "nana": {
+    "enabled": true,
+    "replacement": "नाना"
+  },
+  "nanga": {
+    "enabled": true,
+    "replacement": "नंगा"
+  },
+  "nange": {
+    "enabled": true,
+    "replacement": "नंगे"
+  },
+  "nangi": {
+    "enabled": true,
+    "replacement": "नंगी"
+  },
+  "nangu": {
+    "enabled": true,
+    "replacement": "नंगू"
+  },
+  "nanha": {
+    "enabled": true,
+    "replacement": "नन्हा"
+  },
+  "nanhi": {
+    "enabled": true,
+    "replacement": "नन्ही"
+  },
+  "nari": {
+    "enabled": true,
+    "replacement": "नारी"
+  },
+  "naseeb": {
+    "enabled": true,
+    "replacement": "नसीब"
+  },
+  "nata": {
+    "enabled": true,
+    "replacement": "नाता"
+  },
+  "nau": {
+    "enabled": true,
+    "replacement": "नौ"
+  },
+  "naya": {
+    "enabled": true,
+    "replacement": "नया"
+  },
+  "naye": {
+    "enabled": true,
+    "replacement": "नये"
+  },
+  "nayi": {
+    "enabled": true,
+    "replacement": "नयी"
+  },
+  "nazar": {
+    "enabled": true,
+    "replacement": "नज़र"
+  },
+  "ne": {
+    "enabled": true,
+    "replacement": "ने"
+  },
+  "neeche": {
+    "enabled": true,
+    "replacement": "नीचे"
+  },
+  "neend": {
+    "enabled": true,
+    "replacement": "नींद"
+  },
+  "neenu": {
+    "enabled": true,
+    "replacement": "नीनू"
+  },
+  "ni": {
+    "enabled": true,
+    "replacement": "नी"
+  },
+  "nikaal": {
+    "enabled": true,
+    "replacement": "निकाल"
+  },
+  "nikaala": {
+    "enabled": true,
+    "replacement": "निकाला"
+  },
+  "nikaali": {
+    "enabled": true,
+    "replacement": "निकाली"
+  },
+  "nikaalna": {
+    "enabled": true,
+    "replacement": "निकालना"
+  },
+  "nikaalte": {
+    "enabled": true,
+    "replacement": "निकालते"
+  },
+  "nikal": {
+    "enabled": true,
+    "replacement": "निकल"
+  },
+  "nikalna": {
+    "enabled": true,
+    "replacement": "निकलना"
+  },
+  "nikalne": {
+    "enabled": true,
+    "replacement": "निकलने"
+  },
+  "nikalo": {
+    "enabled": true,
+    "replacement": "निकालो"
+  },
+  "nikalta": {
+    "enabled": true,
+    "replacement": "निकलता"
+  },
+  "nikalte": {
+    "enabled": true,
+    "replacement": "निकलते"
+  },
+  "nikalti": {
+    "enabled": true,
+    "replacement": "निकलती"
+  },
+  "nikla": {
+    "enabled": true,
+    "replacement": "निकला"
+  },
+  "nikle": {
+    "enabled": true,
+    "replacement": "निकले"
+  },
+  "niklenge": {
+    "enabled": true,
+    "replacement": "निकलेंगे"
+  },
+  "nikli": {
+    "enabled": true,
+    "replacement": "निकली"
+  },
+  "niklo": {
+    "enabled": true,
+    "replacement": "निकलो"
+  },
+  "nikloge": {
+    "enabled": true,
+    "replacement": "निकलोगे"
+  },
+  "niklun": {
+    "enabled": true,
+    "replacement": "निकलूं"
+  },
+  "niklungi": {
+    "enabled": true,
+    "replacement": "निकलूंगी"
+  },
+  "ninnu": {
+    "enabled": true,
+    "replacement": "निन्नू"
+  },
+  "nok": {
+    "enabled": true,
+    "replacement": "नोक"
+  },
+  "nunnu": {
+    "enabled": true,
+    "replacement": "नुन्नू"
+  },
+  "om": {
+    "enabled": true,
+    "replacement": "ॐ"
+  },
+  "paa": {
+    "enabled": true,
+    "replacement": "पा"
+  },
+  "paagal": {
+    "enabled": true,
+    "replacement": "पागल"
+  },
+  "paake": {
+    "enabled": true,
+    "replacement": "पाके"
+  },
+  "paanch": {
+    "enabled": true,
+    "replacement": "पाँच"
+  },
+  "paane": {
+    "enabled": true,
+    "replacement": "पाने"
+  },
+  "paani": {
+    "enabled": true,
+    "replacement": "पानी"
+  },
+  "paas": {
+    "enabled": true,
+    "replacement": "पास"
+  },
+  "paav": {
+    "enabled": true,
+    "replacement": "पाँव"
+  },
+  "pachtana": {
+    "enabled": true,
+    "replacement": "पछताना"
+  },
+  "pachtane": {
+    "enabled": true,
+    "replacement": "पछताने"
+  },
+  "pachtao": {
+    "enabled": true,
+    "replacement": "पछताओ"
+  },
+  "pad": {
+    "enabled": true,
+    "replacement": "पड"
+  },
+  "pada": {
+    "enabled": true,
+    "replacement": "पडा"
+  },
+  "padd": {
+    "enabled": true,
+    "replacement": "पढ़"
+  },
+  "paddna": {
+    "enabled": true,
+    "replacement": "पढ़ना"
+  },
+  "paddne": {
+    "enabled": true,
+    "replacement": "पढ़ने"
+  },
+  "paddta": {
+    "enabled": true,
+    "replacement": "पढ़ता"
+  },
+  "paddte": {
+    "enabled": true,
+    "replacement": "पढ़ते"
+  },
+  "paddti": {
+    "enabled": true,
+    "replacement": "पढ़ती"
+  },
+  "pade": {
+    "enabled": true,
+    "replacement": "पडे"
+  },
+  "padega": {
+    "enabled": true,
+    "replacement": "पड़ेगा"
+  },
+  "padh": {
+    "enabled": true,
+    "replacement": "पढ़"
+  },
+  "padha": {
+    "enabled": true,
+    "replacement": "पढ़ा"
+  },
+  "padhke": {
+    "enabled": true,
+    "replacement": "पढ़के"
+  },
+  "padhna": {
+    "enabled": true,
+    "replacement": "पढ़ना"
+  },
+  "padhne": {
+    "enabled": true,
+    "replacement": "पढ़ने"
+  },
+  "padho": {
+    "enabled": true,
+    "replacement": "पढो"
+  },
+  "padhta": {
+    "enabled": true,
+    "replacement": "पढ़ता"
+  },
+  "padhte": {
+    "enabled": true,
+    "replacement": "पढ़ते"
+  },
+  "padhti": {
+    "enabled": true,
+    "replacement": "पढ़ती"
+  },
+  "padi": {
+    "enabled": true,
+    "replacement": "पडी"
+  },
+  "padke": {
+    "enabled": true,
+    "replacement": "पढ़के"
+  },
+  "padna": {
+    "enabled": true,
+    "replacement": "पढ़ना"
+  },
+  "pado": {
+    "enabled": true,
+    "replacement": "पढो"
+  },
+  "padta": {
+    "enabled": true,
+    "replacement": "पडता"
+  },
+  "padte": {
+    "enabled": true,
+    "replacement": "पडते"
+  },
+  "padti": {
+    "enabled": true,
+    "replacement": "पडती"
+  },
+  "paer": {
+    "enabled": true,
+    "replacement": "पैर"
+  },
+  "paeron": {
+    "enabled": true,
+    "replacement": "पैरों"
+  },
+  "pagal": {
+    "enabled": true,
+    "replacement": "पागल"
+  },
+  "pahunch": {
+    "enabled": true,
+    "replacement": "पहुँच"
+  },
+  "pahunchi": {
+    "enabled": true,
+    "replacement": "पहुँची"
+  },
+  "pahunchna": {
+    "enabled": true,
+    "replacement": "पहुंचना"
+  },
+  "pahunchogi": {
+    "enabled": true,
+    "replacement": "पहुँचोगी"
+  },
+  "pahunchunga": {
+    "enabled": true,
+    "replacement": "पहुँचूँगा"
+  },
+  "pahunchungi": {
+    "enabled": true,
+    "replacement": "पहुंचूंगी"
+  },
+  "paida": {
+    "enabled": true,
+    "replacement": "पैदा"
+  },
+  "pairon": {
+    "enabled": true,
+    "replacement": "पैरों"
+  },
+  "paise": {
+    "enabled": true,
+    "replacement": "पैसे"
+  },
+  "pakode": {
+    "enabled": true,
+    "replacement": "पकोडे"
+  },
+  "palak": {
+    "enabled": true,
+    "replacement": "पालक"
+  },
+  "panch": {
+    "enabled": true,
+    "replacement": "पाँच"
+  },
+  "paneer": {
+    "enabled": true,
+    "replacement": "पन्नीर"
+  },
+  "pani": {
+    "enabled": true,
+    "replacement": "पानी"
+  },
+  "pappi": {
+    "enabled": true,
+    "replacement": "पप्पी"
+  },
+  "par": {
+    "enabled": true,
+    "replacement": "पर"
+  },
+  "parantha": {
+    "enabled": true,
+    "replacement": "पराठा"
+  },
+  "paranthe": {
+    "enabled": true,
+    "replacement": "पराठे"
+  },
+  "parantu": {
+    "enabled": true,
+    "replacement": "परन्तु"
+  },
+  "paratha": {
+    "enabled": true,
+    "replacement": "पराठा"
+  },
+  "parathe": {
+    "enabled": true,
+    "replacement": "पराठे"
+  },
+  "parso": {
+    "enabled": true,
+    "replacement": "परसों"
+  },
+  "parva": {
+    "enabled": true,
+    "replacement": "परवाह"
+  },
+  "parvah": {
+    "enabled": true,
+    "replacement": "परवाह"
+  },
+  "parwah": {
+    "enabled": true,
+    "replacement": "परवाह"
+  },
+  "pas": {
+    "enabled": true,
+    "replacement": "पास"
+  },
+  "pata": {
+    "enabled": true,
+    "replacement": "पता"
+  },
+  "patangu": {
+    "enabled": true,
+    "replacement": "पतंगु"
+  },
+  "patar": {
+    "enabled": true,
+    "replacement": "पटर"
+  },
+  "pati": {
+    "enabled": true,
+    "replacement": "पति"
+  },
+  "patni": {
+    "enabled": true,
+    "replacement": "पत्नी"
+  },
+  "paun": {
+    "enabled": true,
+    "replacement": "पाऊं"
+  },
+  "pav": {
+    "enabled": true,
+    "replacement": "पाँव"
+  },
+  "payr": {
+    "enabled": true,
+    "replacement": "पैर"
+  },
+  "pe": {
+    "enabled": true,
+    "replacement": "पे"
+  },
+  "pee": {
+    "enabled": true,
+    "replacement": "पी"
+  },
+  "peeche": {
+    "enabled": true,
+    "replacement": "पीछे"
+  },
+  "peeke": {
+    "enabled": true,
+    "replacement": "पीके"
+  },
+  "peena": {
+    "enabled": true,
+    "replacement": "पीना"
+  },
+  "pehen": {
+    "enabled": true,
+    "replacement": "पहेन"
+  },
+  "pehenke": {
+    "enabled": true,
+    "replacement": "पहेनके"
+  },
+  "pehenta": {
+    "enabled": true,
+    "replacement": "पहेनता"
+  },
+  "pehenti": {
+    "enabled": true,
+    "replacement": "पहेनती"
+  },
+  "pehla": {
+    "enabled": true,
+    "replacement": "पहला"
+  },
+  "pehle": {
+    "enabled": true,
+    "replacement": "पहले"
+  },
+  "pehli": {
+    "enabled": true,
+    "replacement": "पहली"
+  },
+  "pehno": {
+    "enabled": true,
+    "replacement": "पहनो"
+  },
+  "pesh": {
+    "enabled": true,
+    "replacement": "पेश"
+  },
+  "phataphat": {
+    "enabled": true,
+    "replacement": "फटाफट"
+  },
+  "phenk": {
+    "enabled": true,
+    "replacement": "फ़ेंक"
+  },
+  "phenkna": {
+    "enabled": true,
+    "replacement": "फेंकना"
+  },
+  "phenko": {
+    "enabled": true,
+    "replacement": "फेंको"
+  },
+  "phir": {
+    "enabled": true,
+    "replacement": "फिर"
+  },
+  "phirse": {
+    "enabled": true,
+    "replacement": "फिर से"
+  },
+  "phoda": {
+    "enabled": true,
+    "replacement": "फोडा"
+  },
+  "phode": {
+    "enabled": true,
+    "replacement": "फोडे"
+  },
+  "phodi": {
+    "enabled": true,
+    "replacement": "फोडी"
+  },
+  "phodo": {
+    "enabled": true,
+    "replacement": "फोडो"
+  },
+  "phooti": {
+    "enabled": true,
+    "replacement": "फूटी"
+  },
+  "piche": {
+    "enabled": true,
+    "replacement": "पीछे"
+  },
+  "pit": {
+    "enabled": true,
+    "replacement": "पिट"
+  },
+  "pitashri": {
+    "enabled": true,
+    "replacement": "पिताश्री"
+  },
+  "piya": {
+    "enabled": true,
+    "replacement": "पिया"
+  },
+  "piyenge": {
+    "enabled": true,
+    "replacement": "पियेंगे"
+  },
+  "piyo": {
+    "enabled": true,
+    "replacement": "पियो"
+  },
+  "piyoge": {
+    "enabled": true,
+    "replacement": "पियोगे"
+  },
+  "piyun": {
+    "enabled": true,
+    "replacement": "पियूं"
+  },
+  "piyunga": {
+    "enabled": true,
+    "replacement": "पियूँगा"
+  },
+  "piyungi": {
+    "enabled": true,
+    "replacement": "पियूँगी"
+  },
+  "poocha": {
+    "enabled": true,
+    "replacement": "पूछा"
+  },
+  "poochega": {
+    "enabled": true,
+    "replacement": "पूछेगा"
+  },
+  "poochenge": {
+    "enabled": true,
+    "replacement": "पूछेंगे"
+  },
+  "poochke": {
+    "enabled": true,
+    "replacement": "पूछके"
+  },
+  "poocho": {
+    "enabled": true,
+    "replacement": "पूछो"
+  },
+  "poochoge": {
+    "enabled": true,
+    "replacement": "पूछोगे"
+  },
+  "poochogi": {
+    "enabled": true,
+    "replacement": "पूछोगी"
+  },
+  "poochta": {
+    "enabled": true,
+    "replacement": "पूछता"
+  },
+  "poochte": {
+    "enabled": true,
+    "replacement": "पूछते"
+  },
+  "poochti": {
+    "enabled": true,
+    "replacement": "पूछती"
+  },
+  "poonch": {
+    "enabled": true,
+    "replacement": "पूँछ"
+  },
+  "prashan": {
+    "enabled": true,
+    "replacement": "प्रशन"
+  },
+  "puch": {
+    "enabled": true,
+    "replacement": "पूछ"
+  },
+  "pucha": {
+    "enabled": true,
+    "replacement": "पूछा"
+  },
+  "puchega": {
+    "enabled": true,
+    "replacement": "पूछेगा"
+  },
+  "puchenge": {
+    "enabled": true,
+    "replacement": "पूछेंगे"
+  },
+  "puchke": {
+    "enabled": true,
+    "replacement": "पूछके"
+  },
+  "pucho": {
+    "enabled": true,
+    "replacement": "पूछो"
+  },
+  "puchoge": {
+    "enabled": true,
+    "replacement": "पूछोगे"
+  },
+  "puchogi": {
+    "enabled": true,
+    "replacement": "पूछोगी"
+  },
+  "pud": {
+    "enabled": true,
+    "replacement": "पड़"
+  },
+  "puppu": {
+    "enabled": true,
+    "replacement": "पुप्पू"
+  },
+  "pura": {
+    "enabled": true,
+    "replacement": "पूरा"
+  },
+  "purana": {
+    "enabled": true,
+    "replacement": "पुराना"
+  },
+  "purane": {
+    "enabled": true,
+    "replacement": "पुराने"
+  },
+  "purani": {
+    "enabled": true,
+    "replacement": "पुरानी"
+  },
+  "puri": {
+    "enabled": true,
+    "replacement": "पूरी"
+  },
+  "pyaar": {
+    "enabled": true,
+    "replacement": "प्यार"
+  },
+  "pyaaru": {
+    "enabled": true,
+    "replacement": "प्यारु"
+  },
+  "pyar": {
+    "enabled": true,
+    "replacement": "प्यार"
+  },
+  "pyaru": {
+    "enabled": true,
+    "replacement": "प्यारु"
+  },
+  "raat": {
+    "enabled": true,
+    "replacement": "रात"
+  },
+  "rab": {
+    "enabled": true,
+    "replacement": "रब"
+  },
+  "raees": {
+    "enabled": true,
+    "replacement": "रईस"
+  },
+  "rah": {
+    "enabled": true,
+    "replacement": "रह"
+  },
+  "raha": {
+    "enabled": true,
+    "replacement": "रहा"
+  },
+  "rahe": {
+    "enabled": true,
+    "replacement": "रहे"
+  },
+  "rahen": {
+    "enabled": true,
+    "replacement": "रहें"
+  },
+  "rahenge": {
+    "enabled": true,
+    "replacement": "रहेंगे"
+  },
+  "rahi": {
+    "enabled": true,
+    "replacement": "रही"
+  },
+  "rahna": {
+    "enabled": true,
+    "replacement": "रहना"
+  },
+  "rahne": {
+    "enabled": true,
+    "replacement": "रहने"
+  },
+  "raho": {
+    "enabled": true,
+    "replacement": "रहो"
+  },
+  "rahoge": {
+    "enabled": true,
+    "replacement": "रहोगे"
+  },
+  "rahogi": {
+    "enabled": true,
+    "replacement": "रहोगी"
+  },
+  "rahta": {
+    "enabled": true,
+    "replacement": "रहता"
+  },
+  "rahte": {
+    "enabled": true,
+    "replacement": "रहते"
+  },
+  "rahti": {
+    "enabled": true,
+    "replacement": "रहती"
+  },
+  "rahunga": {
+    "enabled": true,
+    "replacement": "रहूंगा"
+  },
+  "raja": {
+    "enabled": true,
+    "replacement": "राजा"
+  },
+  "raju": {
+    "enabled": true,
+    "replacement": "राजू"
+  },
+  "rakh": {
+    "enabled": true,
+    "replacement": "रख"
+  },
+  "rakha": {
+    "enabled": true,
+    "replacement": "रखा"
+  },
+  "rakhi": {
+    "enabled": true,
+    "replacement": "रखी"
+  },
+  "rakhna": {
+    "enabled": true,
+    "replacement": "रखना"
+  },
+  "rakho": {
+    "enabled": true,
+    "replacement": "रखो"
+  },
+  "rakhta": {
+    "enabled": true,
+    "replacement": "रखता"
+  },
+  "rakhte": {
+    "enabled": true,
+    "replacement": "रखते"
+  },
+  "rakhti": {
+    "enabled": true,
+    "replacement": "रखती"
+  },
+  "rani": {
+    "enabled": true,
+    "replacement": "रानी"
+  },
+  "rey": {
+    "enabled": true,
+    "replacement": "रे"
+  },
+  "reh": {
+    "enabled": true,
+    "replacement": "रह"
+  },
+  "rehke": {
+    "enabled": true,
+    "replacement": "रहके"
+  },
+  "rehna": {
+    "enabled": true,
+    "replacement": "रहना"
+  },
+  "rehne": {
+    "enabled": true,
+    "replacement": "रहने"
+  },
+  "rehta": {
+    "enabled": true,
+    "replacement": "रहता"
+  },
+  "rehti": {
+    "enabled": true,
+    "replacement": "रहती"
+  },
+  "rishta": {
+    "enabled": true,
+    "replacement": "रिश्ता"
+  },
+  "rishte": {
+    "enabled": true,
+    "replacement": "रिश्ते"
+  },
+  "ro": {
+    "enabled": true,
+    "replacement": "रो"
+  },
+  "roka": {
+    "enabled": true,
+    "replacement": "रोका"
+  },
+  "roko": {
+    "enabled": true,
+    "replacement": "रोको"
+  },
+  "rokta": {
+    "enabled": true,
+    "replacement": "रोकता"
+  },
+  "rokte": {
+    "enabled": true,
+    "replacement": "रोकते"
+  },
+  "rokti": {
+    "enabled": true,
+    "replacement": "रोकती"
+  },
+  "rona": {
+    "enabled": true,
+    "replacement": "रोना"
+  },
+  "rota": {
+    "enabled": true,
+    "replacement": "रोता"
+  },
+  "rote": {
+    "enabled": true,
+    "replacement": "रोते"
+  },
+  "roti": {
+    "enabled": true,
+    "replacement": "रोटी"
+  },
+  "roz": {
+    "enabled": true,
+    "replacement": "रोज़"
+  },
+  "ruk": {
+    "enabled": true,
+    "replacement": "रुक"
+  },
+  "rukke": {
+    "enabled": true,
+    "replacement": "रुक्के"
+  },
+  "rukna": {
+    "enabled": true,
+    "replacement": "रुकना"
+  },
+  "rukne": {
+    "enabled": true,
+    "replacement": "रुकने"
+  },
+  "ruko": {
+    "enabled": true,
+    "replacement": "रुको"
+  },
+  "rukta": {
+    "enabled": true,
+    "replacement": "रुकता"
+  },
+  "rukte": {
+    "enabled": true,
+    "replacement": "रुकते"
+  },
+  "rukti": {
+    "enabled": true,
+    "replacement": "रूकती"
+  },
+  "sa": {
+    "enabled": true,
+    "replacement": "सा"
+  },
+  "saab": {
+    "enabled": true,
+    "replacement": "साब"
+  },
+  "saaf": {
+    "enabled": true,
+    "replacement": "साफ़"
+  },
+  "saal": {
+    "enabled": true,
+    "replacement": "साल"
+  },
+  "saala": {
+    "enabled": true,
+    "replacement": "साला"
+  },
+  "saale": {
+    "enabled": true,
+    "replacement": "साले"
+  },
+  "saali": {
+    "enabled": true,
+    "replacement": "साली"
+  },
+  "saamne": {
+    "enabled": true,
+    "replacement": "सामने"
+  },
+  "saara": {
+    "enabled": true,
+    "replacement": "सारा"
+  },
+  "saare": {
+    "enabled": true,
+    "replacement": "सारे"
+  },
+  "saari": {
+    "enabled": true,
+    "replacement": "सारी"
+  },
+  "saat": {
+    "enabled": true,
+    "replacement": "साथ"
+  },
+  "saath": {
+    "enabled": true,
+    "replacement": "साथ"
+  },
+  "saathi": {
+    "enabled": true,
+    "replacement": "साथी"
+  },
+  "sab": {
+    "enabled": true,
+    "replacement": "सब"
+  },
+  "sabka": {
+    "enabled": true,
+    "replacement": "सबका"
+  },
+  "sabke": {
+    "enabled": true,
+    "replacement": "सबके"
+  },
+  "sabki": {
+    "enabled": true,
+    "replacement": "सबकी"
+  },
+  "sabko": {
+    "enabled": true,
+    "replacement": "सबको"
+  },
+  "sabne": {
+    "enabled": true,
+    "replacement": "सबने"
+  },
+  "sabse": {
+    "enabled": true,
+    "replacement": "सबसे"
+  },
+  "sabzi": {
+    "enabled": true,
+    "replacement": "सब्ज़ी"
+  },
+  "saccha": {
+    "enabled": true,
+    "replacement": "सच्चा"
+  },
+  "sacchi": {
+    "enabled": true,
+    "replacement": "सच्ची"
+  },
+  "safai": {
+    "enabled": true,
+    "replacement": "सफाई"
+  },
+  "sahi": {
+    "enabled": true,
+    "replacement": "सही"
+  },
+  "sahib": {
+    "enabled": true,
+    "replacement": "साहिब"
+  },
+  "sahiba": {
+    "enabled": true,
+    "replacement": "साहिबा"
+  },
+  "saka": {
+    "enabled": true,
+    "replacement": "सका"
+  },
+  "saki": {
+    "enabled": true,
+    "replacement": "सकी"
+  },
+  "sako": {
+    "enabled": true,
+    "replacement": "सको"
+  },
+  "sakoon": {
+    "enabled": true,
+    "replacement": "सकूं"
+  },
+  "sakta": {
+    "enabled": true,
+    "replacement": "सकता"
+  },
+  "sakte": {
+    "enabled": true,
+    "replacement": "सकते"
+  },
+  "sakti": {
+    "enabled": true,
+    "replacement": "सकती"
+  },
+  "sakun": {
+    "enabled": true,
+    "replacement": "सकूं"
+  },
+  "sala": {
+    "enabled": true,
+    "replacement": "साला"
+  },
+  "saleh": {
+    "enabled": true,
+    "replacement": "साले"
+  },
+  "sali": {
+    "enabled": true,
+    "replacement": "साली"
+  },
+  "samajh": {
+    "enabled": true,
+    "replacement": "समझ"
+  },
+  "samajhne": {
+    "enabled": true,
+    "replacement": "समझने"
+  },
+  "samandar": {
+    "enabled": true,
+    "replacement": "समंदर"
+  },
+  "sambhal": {
+    "enabled": true,
+    "replacement": "संभल"
+  },
+  "sambhala": {
+    "enabled": true,
+    "replacement": "संभाला"
+  },
+  "sambhalke": {
+    "enabled": true,
+    "replacement": "संभलके"
+  },
+  "sambhalna": {
+    "enabled": true,
+    "replacement": "संभालना"
+  },
+  "sambhalne": {
+    "enabled": true,
+    "replacement": "संभालने"
+  },
+  "sambhalo": {
+    "enabled": true,
+    "replacement": "संभालो"
+  },
+  "samjha": {
+    "enabled": true,
+    "replacement": "समझा"
+  },
+  "samjhao": {
+    "enabled": true,
+    "replacement": "समझाओ"
+  },
+  "samjhaya": {
+    "enabled": true,
+    "replacement": "समझाया"
+  },
+  "samjhe": {
+    "enabled": true,
+    "replacement": "समझे"
+  },
+  "samjhi": {
+    "enabled": true,
+    "replacement": "समझी"
+  },
+  "samjhkar": {
+    "enabled": true,
+    "replacement": "समझकर"
+  },
+  "samne": {
+    "enabled": true,
+    "replacement": "सामने"
+  },
+  "sanam": {
+    "enabled": true,
+    "replacement": "सनम"
+  },
+  "sapna": {
+    "enabled": true,
+    "replacement": "सप्ना"
+  },
+  "sapne": {
+    "enabled": true,
+    "replacement": "सप्ने"
+  },
+  "sapno": {
+    "enabled": true,
+    "replacement": "सपनों"
+  },
+  "sapnon": {
+    "enabled": true,
+    "replacement": "सपनों"
+  },
+  "sar": {
+    "enabled": true,
+    "replacement": "सर"
+  },
+  "sara": {
+    "enabled": true,
+    "replacement": "सारा"
+  },
+  "sardi": {
+    "enabled": true,
+    "replacement": "सर्दी"
+  },
+  "sare": {
+    "enabled": true,
+    "replacement": "सारे"
+  },
+  "sari": {
+    "enabled": true,
+    "replacement": "साड़ी"
+  },
+  "sarkar": {
+    "enabled": true,
+    "replacement": "सरकार"
+  },
+  "satate": {
+    "enabled": true,
+    "replacement": "सताते"
+  },
+  "satati": {
+    "enabled": true,
+    "replacement": "सताती"
+  },
+  "sath": {
+    "enabled": true,
+    "replacement": "साथ"
+  },
+  "savera": {
+    "enabled": true,
+    "replacement": "सवेरा"
+  },
+  "se": {
+    "enabled": true,
+    "replacement": "से"
+  },
+  "seedha": {
+    "enabled": true,
+    "replacement": "सीधा"
+  },
+  "seedhe": {
+    "enabled": true,
+    "replacement": "सीधे"
+  },
+  "seedhi": {
+    "enabled": true,
+    "replacement": "सीधी"
+  },
+  "shaadi": {
+    "enabled": true,
+    "replacement": "शादी"
+  },
+  "shaam": {
+    "enabled": true,
+    "replacement": "शाम"
+  },
+  "shakal": {
+    "enabled": true,
+    "replacement": "शकल"
+  },
+  "sharam": {
+    "enabled": true,
+    "replacement": "शरम"
+  },
+  "shayad": {
+    "enabled": true,
+    "replacement": "शायद"
+  },
+  "shayiri": {
+    "enabled": true,
+    "replacement": "शायिरी"
+  },
+  "sher": {
+    "enabled": true,
+    "replacement": "शेर"
+  },
+  "shero": {
+    "enabled": true,
+    "replacement": "शेरो"
+  },
+  "shona": {
+    "enabled": true,
+    "replacement": "शोणा"
+  },
+  "shoni": {
+    "enabled": true,
+    "replacement": "शोणी"
+  },
+  "shri": {
+    "enabled": true,
+    "replacement": "श्री"
+  },
+  "shriman": {
+    "enabled": true,
+    "replacement": "श्रीमान"
+  },
+  "shrimati": {
+    "enabled": true,
+    "replacement": "श्रीमती"
+  },
+  "shubh": {
+    "enabled": true,
+    "replacement": "शुभ"
+  },
+  "shudh": {
+    "enabled": true,
+    "replacement": "शुद्ध"
+  },
+  "shuru": {
+    "enabled": true,
+    "replacement": "शुरू"
+  },
+  "si": {
+    "enabled": true,
+    "replacement": "सी"
+  },
+  "sirf": {
+    "enabled": true,
+    "replacement": "सिर्फ़"
+  },
+  "soch": {
+    "enabled": true,
+    "replacement": "सोच"
+  },
+  "socha": {
+    "enabled": true,
+    "replacement": "सोचा"
+  },
+  "socho": {
+    "enabled": true,
+    "replacement": "सोचो"
+  },
+  "sochta": {
+    "enabled": true,
+    "replacement": "सोचता"
+  },
+  "sochte": {
+    "enabled": true,
+    "replacement": "सोचते"
+  },
+  "sochti": {
+    "enabled": true,
+    "replacement": "सोचती"
+  },
+  "soh": {
+    "enabled": true,
+    "replacement": "सो"
+  },
+  "soi": {
+    "enabled": true,
+    "replacement": "सोई"
+  },
+  "sona": {
+    "enabled": true,
+    "replacement": "सोना"
+  },
+  "sone": {
+    "enabled": true,
+    "replacement": "सोने"
+  },
+  "sota": {
+    "enabled": true,
+    "replacement": "सोता"
+  },
+  "sote": {
+    "enabled": true,
+    "replacement": "सोते"
+  },
+  "soti": {
+    "enabled": true,
+    "replacement": "सोती"
+  },
+  "soya": {
+    "enabled": true,
+    "replacement": "सोया"
+  },
+  "soyi": {
+    "enabled": true,
+    "replacement": "सोयी"
+  },
+  "subah": {
+    "enabled": true,
+    "replacement": "सुबह"
+  },
+  "subhan": {
+    "enabled": true,
+    "replacement": "सुभान"
+  },
+  "subhanallah": {
+    "enabled": true,
+    "replacement": "सुभान अल्लाह"
+  },
+  "subzi": {
+    "enabled": true,
+    "replacement": "सब्ज़ी"
+  },
+  "sula": {
+    "enabled": true,
+    "replacement": "सुला"
+  },
+  "sulake": {
+    "enabled": true,
+    "replacement": "सुलाके"
+  },
+  "sulana": {
+    "enabled": true,
+    "replacement": "सुलाना"
+  },
+  "sulane": {
+    "enabled": true,
+    "replacement": "सुलाने"
+  },
+  "sulao": {
+    "enabled": true,
+    "replacement": "सुलाओ"
+  },
+  "sulaun": {
+    "enabled": true,
+    "replacement": "सुलाऊँ"
+  },
+  "sulaya": {
+    "enabled": true,
+    "replacement": "सुलाया"
+  },
+  "sulayenge": {
+    "enabled": true,
+    "replacement": "सुलायेंगे"
+  },
+  "suna": {
+    "enabled": true,
+    "replacement": "सुना"
+  },
+  "sunai": {
+    "enabled": true,
+    "replacement": "सुनाई"
+  },
+  "sunao": {
+    "enabled": true,
+    "replacement": "सुनाओ"
+  },
+  "sunaya": {
+    "enabled": true,
+    "replacement": "सुनाया"
+  },
+  "sunaye": {
+    "enabled": true,
+    "replacement": "सुनाये"
+  },
+  "sunayi": {
+    "enabled": true,
+    "replacement": "सुनायी"
+  },
+  "sune": {
+    "enabled": true,
+    "replacement": "सुने"
+  },
+  "sunega": {
+    "enabled": true,
+    "replacement": "सुनेगा"
+  },
+  "sunenge": {
+    "enabled": true,
+    "replacement": "सुनेंगे"
+  },
+  "sunke": {
+    "enabled": true,
+    "replacement": "सुनके"
+  },
+  "sunna": {
+    "enabled": true,
+    "replacement": "सुनना"
+  },
+  "sunne": {
+    "enabled": true,
+    "replacement": "सुनने"
+  },
+  "suno": {
+    "enabled": true,
+    "replacement": "सुनो"
+  },
+  "sunoge": {
+    "enabled": true,
+    "replacement": "सुनोगे"
+  },
+  "sunogi": {
+    "enabled": true,
+    "replacement": "सुनोगी"
+  },
+  "sunta": {
+    "enabled": true,
+    "replacement": "सुनता"
+  },
+  "sunte": {
+    "enabled": true,
+    "replacement": "सुनते"
+  },
+  "sunti": {
+    "enabled": true,
+    "replacement": "सुनती"
+  },
+  "sununga": {
+    "enabled": true,
+    "replacement": "सुनूंगा"
+  },
+  "sunungi": {
+    "enabled": true,
+    "replacement": "सुनूंगी"
+  },
+  "sussu": {
+    "enabled": true,
+    "replacement": "सुस्सू"
+  },
+  "swaad": {
+    "enabled": true,
+    "replacement": "स्वाद"
+  },
+  "swad": {
+    "enabled": true,
+    "replacement": "स्वाद"
+  },
+  "thab": {
+    "enabled": true,
+    "replacement": "तब"
+  },
+  "tabhi": {
+    "enabled": true,
+    "replacement": "तभी"
+  },
+  "tak": {
+    "enabled": true,
+    "replacement": "तक"
+  },
+  "takdir": {
+    "enabled": true,
+    "replacement": "तक़दीर"
+  },
+  "tam": {
+    "enabled": true,
+    "replacement": "तम"
+  },
+  "tamanna": {
+    "enabled": true,
+    "replacement": "तमन्ना"
+  },
+  "tammana": {
+    "enabled": true,
+    "replacement": "तमन्ना"
+  },
+  "tand": {
+    "enabled": true,
+    "replacement": "ठंड"
+  },
+  "tanda": {
+    "enabled": true,
+    "replacement": "ठंडा"
+  },
+  "tande": {
+    "enabled": true,
+    "replacement": "ठंडे"
+  },
+  "tandi": {
+    "enabled": true,
+    "replacement": "ठंडी"
+  },
+  "tandrusti": {
+    "enabled": true,
+    "replacement": "तंदरुस्ती"
+  },
+  "tandu": {
+    "enabled": true,
+    "replacement": "ठंडू"
+  },
+  "tang": {
+    "enabled": true,
+    "replacement": "तंग"
+  },
+  "taraf": {
+    "enabled": true,
+    "replacement": "तरफ़"
+  },
+  "tarah": {
+    "enabled": true,
+    "replacement": "तरह"
+  },
+  "tat": {
+    "enabled": true,
+    "replacement": "तत्"
+  },
+  "teek": {
+    "enabled": true,
+    "replacement": "ठीक"
+  },
+  "teeka": {
+    "enabled": true,
+    "replacement": "ठीका"
+  },
+  "teekha": {
+    "enabled": true,
+    "replacement": "तीखा"
+  },
+  "teen": {
+    "enabled": true,
+    "replacement": "तीन"
+  },
+  "teesra": {
+    "enabled": true,
+    "replacement": "तीसरा"
+  },
+  "teesri": {
+    "enabled": true,
+    "replacement": "तीसरी"
+  },
+  "tehra": {
+    "enabled": true,
+    "replacement": "ठहरा"
+  },
+  "tehri": {
+    "enabled": true,
+    "replacement": "ठहरी"
+  },
+  "tera": {
+    "enabled": true,
+    "replacement": "तेरा"
+  },
+  "tere": {
+    "enabled": true,
+    "replacement": "तेरे"
+  },
+  "teri": {
+    "enabled": true,
+    "replacement": "तेरी"
+  },
+  "tha": {
+    "enabled": true,
+    "replacement": "था"
+  },
+  "thak": {
+    "enabled": true,
+    "replacement": "थक"
+  },
+  "thand": {
+    "enabled": true,
+    "replacement": "ठंड"
+  },
+  "thanda": {
+    "enabled": true,
+    "replacement": "ठंडा"
+  },
+  "thande": {
+    "enabled": true,
+    "replacement": "ठंडे"
+  },
+  "thandi": {
+    "enabled": true,
+    "replacement": "ठंडी"
+  },
+  "thandu": {
+    "enabled": true,
+    "replacement": "ठंडू"
+  },
+  "thee": {
+    "enabled": true,
+    "replacement": "थी"
+  },
+  "theek": {
+    "enabled": true,
+    "replacement": "ठीक"
+  },
+  "thhe": {
+    "enabled": true,
+    "replacement": "थे"
+  },
+  "thi": {
+    "enabled": true,
+    "replacement": "थी"
+  },
+  "tho": {
+    "enabled": true,
+    "replacement": "तो"
+  },
+  "thoda": {
+    "enabled": true,
+    "replacement": "थोड़ा"
+  },
+  "thode": {
+    "enabled": true,
+    "replacement": "थोड़े"
+  },
+  "thodi": {
+    "enabled": true,
+    "replacement": "थोड़ी"
+  },
+  "thondu": {
+    "enabled": true,
+    "replacement": "थोंदु"
+  },
+  "thu": {
+    "enabled": true,
+    "replacement": "तू"
+  },
+  "thune": {
+    "enabled": true,
+    "replacement": "तुने"
+  },
+  "tika": {
+    "enabled": true,
+    "replacement": "टिका"
+  },
+  "tike": {
+    "enabled": true,
+    "replacement": "टिके"
+  },
+  "tiki": {
+    "enabled": true,
+    "replacement": "टिकी"
+  },
+  "tikki": {
+    "enabled": true,
+    "replacement": "टिक्की"
+  },
+  "toh": {
+    "enabled": true,
+    "replacement": "तो"
+  },
+  "tohfa": {
+    "enabled": true,
+    "replacement": "तोहफ़ा"
+  },
+  "tond": {
+    "enabled": true,
+    "replacement": "थोंद"
+  },
+  "tondu": {
+    "enabled": true,
+    "replacement": "थोंदु"
+  },
+  "toot": {
+    "enabled": true,
+    "replacement": "टूट"
+  },
+  "tthe": {
+    "enabled": true,
+    "replacement": "थे"
+  },
+  "tu": {
+    "enabled": true,
+    "replacement": "तू"
+  },
+  "tujhe": {
+    "enabled": true,
+    "replacement": "तुझे"
+  },
+  "tujhko": {
+    "enabled": true,
+    "replacement": "तुझको"
+  },
+  "tum": {
+    "enabled": true,
+    "replacement": "तुम"
+  },
+  "tumhara": {
+    "enabled": true,
+    "replacement": "तुमहारा"
+  },
+  "tumhare": {
+    "enabled": true,
+    "replacement": "तुमहारे"
+  },
+  "tumhari": {
+    "enabled": true,
+    "replacement": "तुमहारी"
+  },
+  "tumhe": {
+    "enabled": true,
+    "replacement": "तुमहें"
+  },
+  "tumko": {
+    "enabled": true,
+    "replacement": "तुमको"
+  },
+  "tumne": {
+    "enabled": true,
+    "replacement": "तुमने"
+  },
+  "tumse": {
+    "enabled": true,
+    "replacement": "तुमसे"
+  },
+  "tunda": {
+    "enabled": true,
+    "replacement": "ठंडा"
+  },
+  "tung": {
+    "enabled": true,
+    "replacement": "तंग"
+  },
+  "tunna": {
+    "enabled": true,
+    "replacement": "टुन्ना"
+  },
+  "tunni": {
+    "enabled": true,
+    "replacement": "टुन्नी"
+  },
+  "tuut": {
+    "enabled": true,
+    "replacement": "टूट"
+  },
+  "uchal": {
+    "enabled": true,
+    "replacement": "उछल"
+  },
+  "uchalke": {
+    "enabled": true,
+    "replacement": "उछलके"
+  },
+  "uchalna": {
+    "enabled": true,
+    "replacement": "उछलना"
+  },
+  "uchalne": {
+    "enabled": true,
+    "replacement": "उछलने"
+  },
+  "ud": {
+    "enabled": true,
+    "replacement": "उड़"
+  },
+  "udane": {
+    "enabled": true,
+    "replacement": "उडाने"
+  },
+  "udhar": {
+    "enabled": true,
+    "replacement": "उधर"
+  },
+  "udke": {
+    "enabled": true,
+    "replacement": "उड़के"
+  },
+  "udna": {
+    "enabled": true,
+    "replacement": "उड़ना"
+  },
+  "udne": {
+    "enabled": true,
+    "replacement": "उड़ने"
+  },
+  "udta": {
+    "enabled": true,
+    "replacement": "उड़ता"
+  },
+  "udte": {
+    "enabled": true,
+    "replacement": "उड़ते"
+  },
+  "udti": {
+    "enabled": true,
+    "replacement": "उड़ती"
+  },
+  "uff": {
+    "enabled": true,
+    "replacement": "उफ़"
+  },
+  "ullu": {
+    "enabled": true,
+    "replacement": "उल्लू"
+  },
+  "ulta": {
+    "enabled": true,
+    "replacement": "उल्टा"
+  },
+  "un": {
+    "enabled": true,
+    "replacement": "उन"
+  },
+  "unda": {
+    "enabled": true,
+    "replacement": "अंडा"
+  },
+  "unhone": {
+    "enabled": true,
+    "replacement": "उनहोंने"
+  },
+  "unka": {
+    "enabled": true,
+    "replacement": "उनका"
+  },
+  "unke": {
+    "enabled": true,
+    "replacement": "उनके"
+  },
+  "unki": {
+    "enabled": true,
+    "replacement": "उनकी"
+  },
+  "unko": {
+    "enabled": true,
+    "replacement": "उनको"
+  },
+  "unse": {
+    "enabled": true,
+    "replacement": "उनसे"
+  },
+  "upar": {
+    "enabled": true,
+    "replacement": "ऊपर"
+  },
+  "usee": {
+    "enabled": true,
+    "replacement": "उसी"
+  },
+  "usi": {
+    "enabled": true,
+    "replacement": "उसी"
+  },
+  "uska": {
+    "enabled": true,
+    "replacement": "उसका"
+  },
+  "uske": {
+    "enabled": true,
+    "replacement": "उसके"
+  },
+  "uski": {
+    "enabled": true,
+    "replacement": "उसकी"
+  },
+  "usko": {
+    "enabled": true,
+    "replacement": "उसको"
+  },
+  "usme": {
+    "enabled": true,
+    "replacement": "उसमे"
+  },
+  "usne": {
+    "enabled": true,
+    "replacement": "उसने"
+  },
+  "uspar": {
+    "enabled": true,
+    "replacement": "उस पर"
+  },
+  "uspe": {
+    "enabled": true,
+    "replacement": "उसपे"
+  },
+  "uss": {
+    "enabled": true,
+    "replacement": "उस"
+  },
+  "usse": {
+    "enabled": true,
+    "replacement": "उससे"
+  },
+  "utaarke": {
+    "enabled": true,
+    "replacement": "उतारके"
+  },
+  "utaarne": {
+    "enabled": true,
+    "replacement": "उतारने"
+  },
+  "utaaro": {
+    "enabled": true,
+    "replacement": "उतारो"
+  },
+  "utarke": {
+    "enabled": true,
+    "replacement": "उतारके"
+  },
+  "utarne": {
+    "enabled": true,
+    "replacement": "उतरने"
+  },
+  "utaro": {
+    "enabled": true,
+    "replacement": "उतारो"
+  },
+  "uth": {
+    "enabled": true,
+    "replacement": "उठ"
+  },
+  "utha": {
+    "enabled": true,
+    "replacement": "उठ्ठा"
+  },
+  "uthake": {
+    "enabled": true,
+    "replacement": "उठाके"
+  },
+  "uthana": {
+    "enabled": true,
+    "replacement": "उठाना"
+  },
+  "uthane": {
+    "enabled": true,
+    "replacement": "उठाने"
+  },
+  "uthao": {
+    "enabled": true,
+    "replacement": "उठाओ"
+  },
+  "utharke": {
+    "enabled": true,
+    "replacement": "उतारके"
+  },
+  "utharo": {
+    "enabled": true,
+    "replacement": "उतारो"
+  },
+  "uthata": {
+    "enabled": true,
+    "replacement": "उठाता"
+  },
+  "uthati": {
+    "enabled": true,
+    "replacement": "उठाती"
+  },
+  "uthega": {
+    "enabled": true,
+    "replacement": "उठेगा"
+  },
+  "uthegi": {
+    "enabled": true,
+    "replacement": "उठेगी"
+  },
+  "uthenge": {
+    "enabled": true,
+    "replacement": "उठेंगे"
+  },
+  "uthke": {
+    "enabled": true,
+    "replacement": "उठके"
+  },
+  "uthti": {
+    "enabled": true,
+    "replacement": "उठती"
+  },
+  "uthunga": {
+    "enabled": true,
+    "replacement": "उठूँगा"
+  },
+  "uthungi": {
+    "enabled": true,
+    "replacement": "उठूंगी"
+  },
+  "utna": {
+    "enabled": true,
+    "replacement": "उतना"
+  },
+  "utt": {
+    "enabled": true,
+    "replacement": "उठ"
+  },
+  "utta": {
+    "enabled": true,
+    "replacement": "उठ्ठा"
+  },
+  "uttake": {
+    "enabled": true,
+    "replacement": "उठाके"
+  },
+  "uttana": {
+    "enabled": true,
+    "replacement": "उठाना"
+  },
+  "uttane": {
+    "enabled": true,
+    "replacement": "उठाने"
+  },
+  "uttao": {
+    "enabled": true,
+    "replacement": "उठ्ठाओ"
+  },
+  "uttatha": {
+    "enabled": true,
+    "replacement": "उठाता"
+  },
+  "uttathe": {
+    "enabled": true,
+    "replacement": "उठाते"
+  },
+  "uttathi": {
+    "enabled": true,
+    "replacement": "उठाति"
+  },
+  "utte": {
+    "enabled": true,
+    "replacement": "उठ्ठे"
+  },
+  "uttha": {
+    "enabled": true,
+    "replacement": "उठता"
+  },
+  "utthe": {
+    "enabled": true,
+    "replacement": "उठते"
+  },
+  "utti": {
+    "enabled": true,
+    "replacement": "उठ्ठी"
+  },
+  "uttke": {
+    "enabled": true,
+    "replacement": "उठके"
+  },
+  "utto": {
+    "enabled": true,
+    "replacement": "उठ्ठो"
+  },
+  "utttha": {
+    "enabled": true,
+    "replacement": "उठता"
+  },
+  "uttthi": {
+    "enabled": true,
+    "replacement": "उठती"
+  },
+  "vaala": {
+    "enabled": true,
+    "replacement": "वाला"
+  },
+  "vahin": {
+    "enabled": true,
+    "replacement": "वहीँ"
+  },
+  "vaise": {
+    "enabled": true,
+    "replacement": "वैसे"
+  },
+  "vajah": {
+    "enabled": true,
+    "replacement": "वजह"
+  },
+  "vakt": {
+    "enabled": true,
+    "replacement": "वक़्त"
+  },
+  "vala": {
+    "enabled": true,
+    "replacement": "वाला"
+  },
+  "vapas": {
+    "enabled": true,
+    "replacement": "वापस"
+  },
+  "vishwas": {
+    "enabled": true,
+    "replacement": "विश्वास"
+  },
+  "vo": {
+    "enabled": true,
+    "replacement": "वह"
+  },
+  "voh": {
+    "enabled": true,
+    "replacement": "वह"
+  },
+  "waala": {
+    "enabled": true,
+    "replacement": "वाला"
+  },
+  "waale": {
+    "enabled": true,
+    "replacement": "वाले"
+  },
+  "wah": {
+    "enabled": true,
+    "replacement": "वाह"
+  },
+  "wahan": {
+    "enabled": true,
+    "replacement": "वहाँ"
+  },
+  "wahin": {
+    "enabled": true,
+    "replacement": "वहीँ"
+  },
+  "wakt": {
+    "enabled": true,
+    "replacement": "वक़्त"
+  },
+  "wala": {
+    "enabled": true,
+    "replacement": "वाला"
+  },
+  "wale": {
+    "enabled": true,
+    "replacement": "वाले"
+  },
+  "wali": {
+    "enabled": true,
+    "replacement": "वाली"
+  },
+  "wo": {
+    "enabled": true,
+    "replacement": "वह"
+  },
+  "woh": {
+    "enabled": true,
+    "replacement": "वह"
+  },
+  "wohi": {
+    "enabled": true,
+    "replacement": "वही"
+  },
+  "ya": {
+    "enabled": true,
+    "replacement": "या"
+  },
+  "yaad": {
+    "enabled": true,
+    "replacement": "याद"
+  },
+  "yaar": {
+    "enabled": true,
+    "replacement": "यार"
+  },
+  "yahan": {
+    "enabled": true,
+    "replacement": "यहाँ"
+  },
+  "yahi": {
+    "enabled": true,
+    "replacement": "यही"
+  },
+  "yahin": {
+    "enabled": true,
+    "replacement": "यहीं"
+  },
+  "yeh": {
+    "enabled": true,
+    "replacement": "यह"
+  },
+  "yehi": {
+    "enabled": true,
+    "replacement": "यही"
+  },
+  "zabardast": {
+    "enabled": true,
+    "replacement": "ज़बरदस्त"
+  },
+  "zabardasti": {
+    "enabled": true,
+    "replacement": "ज़बरदस्ती"
+  },
+  "zamana": {
+    "enabled": true,
+    "replacement": "ज़माना"
+  },
+  "zamane": {
+    "enabled": true,
+    "replacement": "ज़माने"
+  },
+  "zarurat": {
+    "enabled": true,
+    "replacement": "ज़रूरत"
+  },
+  "zeher": {
+    "enabled": true,
+    "replacement": "ज़हर"
+  },
+  "zid": {
+    "enabled": true,
+    "replacement": "ज़िद"
+  },
+  "ziddi": {
+    "enabled": true,
+    "replacement": "ज़िद्दी"
+  },
+  "zindagi": {
+    "enabled": true,
+    "replacement": "ज़िंदगी"
+  },
+  "zor": {
+    "enabled": true,
+    "replacement": "ज़ोर"
+  },
+  "zulfe": {
+    "enabled": true,
+    "replacement": "ज़ुल्फ़ें"
+  },
+  "zulfein": {
+    "enabled": true,
+    "replacement": "ज़ुल्फ़ें"
+  },
+  "zulm": {
+    "enabled": true,
+    "replacement": "ज़ुल्म"
+  },
+  "zyaada": {
+    "enabled": true,
+    "replacement": "ज्यादा"
+  },
+  "dikhi": {
+    "enabled": true,
+    "replacement": "दिखी"
+  },
+  "re": {
+    "enabled": true,
+    "replacement": "रे"
+  },
+  "shair": {
+    "enabled": true,
+    "replacement": "शायर"
+  },
+  "shayar": {
+    "enabled": true,
+    "replacement": "शायर"
+  },
+  "shairi": {
+    "enabled": true,
+    "replacement": "शयिरी"
+  },
+  "shayari": {
+    "enabled": true,
+    "replacement": "शयिरी"
+  },
+  "sawaal": {
+    "enabled": true,
+    "replacement": "सवाल"
+  },
+  "savaal": {
+    "enabled": true,
+    "replacement": "सवाल"
+  },
+  "sunn": {
+    "enabled": true,
+    "replacement": "सुन"
+  },
+  "dene": {
+    "enabled": true,
+    "replacement": "देने"
+  },
+  "naha": {
+    "enabled": true,
+    "replacement": "नहा"
+  },
+  "nahane": {
+    "enabled": true,
+    "replacement": "नहाने"
+  },
+  "nahaya": {
+    "enabled": true,
+    "replacement": "नहाया"
+  },
+  "nahana": {
+    "enabled": true,
+    "replacement": "नहाना"
+  },
+  "rs.": {
+    "enabled": true,
+    "replacement": "₹"
+  },
+  "tharki": {
+    "enabled": true,
+    "replacement": "ठरकी"
+  },
+  "saikdon": {
+    "enabled": true,
+    "replacement": "सैकड़ों"
+  }
+}

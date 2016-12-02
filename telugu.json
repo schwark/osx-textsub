@@ -1,0 +1,47 @@
+{
+  "ela": {
+    "enabled": true,
+    "replacement": "ఎలా"
+  },
+  "endaro": {
+    "enabled": true,
+    "replacement": "ఎందరో"
+  },
+  "chesava": {
+    "enabled": true,
+    "replacement": "చేసావా"
+  },
+  "chestanu": {
+    "enabled": true,
+    "replacement": "చేస్తాను"
+  },
+  "chestunanu": {
+    "enabled": true,
+    "replacement": "చేస్తున్నాను"
+  },
+  "mahanubhavulu": {
+    "enabled": true,
+    "replacement": "మహానుభావులు"
+  },
+  "naku": {
+    "enabled": true,
+    "replacement": "నాకు"
+  },
+  "nenu": {
+    "enabled": true,
+    "replacement": "నేను"
+  },
+  "neeku": {
+    "enabled": true,
+    "replacement": "నీకు"
+  },
+  "nuvvu": {
+    "enabled": true,
+    "replacement": "నువ్వు"
+  },
+  "undi": {
+    "enabled": true,
+    "replacement": "ఉంది"
+  },
+
+}

@@ -1,0 +1,66 @@
+{
+  "(c)": {
+    "enabled": true,
+    "replacement": "©"
+  },
+  "(r)": {
+    "enabled": true,
+    "replacement": "®"
+  },
+  "(p)": {
+    "enabled": true,
+    "replacement": "℗"
+  },
+  "TM": {
+    "enabled": true,
+    "replacement": "™"
+  },
+  "c/o": {
+    "enabled": true,
+    "replacement": "℅"
+  },
+  "...": {
+    "enabled": true,
+    "replacement": "…"
+  },
+  "1/2": {
+    "enabled": null,
+    "replacement": "½"
+  },
+  "1/3": {
+    "enabled": null,
+    "replacement": "⅓"
+  },
+  "2/3": {
+    "enabled": null,
+    "replacement": "⅔"
+  },
+  "1/4": {
+    "enabled": null,
+    "replacement": "¼"
+  },
+  "3/4": {
+    "enabled": null,
+    "replacement": "¾"
+  },
+  "1/8": {
+    "enabled": null,
+    "replacement": "⅛"
+  },
+  "3/8": {
+    "enabled": null,
+    "replacement": "⅜"
+  },
+  "5/8": {
+    "enabled": null,
+    "replacement": "⅝"
+  },
+  "7/8": {
+    "enabled": null,
+    "replacement": "⅞"
+  },
+   "npl": {
+    "enabled": true,
+    "replacement": "/nowplaying"
+  }
+}

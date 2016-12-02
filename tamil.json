@@ -1,0 +1,128 @@
+{
+  "amma": {
+    "enabled": true,
+    "replacement": "அம்மா"
+  },
+  "enge": {
+    "enabled": true,
+    "replacement": "எங்கே"
+  },
+  "enna": {
+    "enabled": true,
+    "replacement": "என்ன"
+  },
+  "eppidi": {
+    "enabled": true,
+    "replacement": "எப்பிடி"
+  },
+  "eppo": {
+    "enabled": true,
+    "replacement": "எப்போ"
+  },
+  "iniki": {
+    "enabled": true,
+    "replacement": "இநீகீ"
+  },
+  "ippo": {
+    "enabled": true,
+    "replacement": "இப்போ"
+  },
+  "irruken": {
+    "enabled": true,
+    "replacement": "இர்ருகென்"
+  },
+  "irrukingala": {
+    "enabled": true,
+    "replacement": "இர்ருகிங்கிளா"
+  },
+  "irrukinge": {
+    "enabled": true,
+    "replacement": "இரருகிங்கே"
+  },
+  "irrukingila": {
+    "enabled": true,
+    "replacement": "இர்ருகிங்கிளா"
+  },
+  "irrukire": {
+    "enabled": true,
+    "replacement": "இர்ருகிரெ"
+  },
+  "irruku": {
+    "enabled": true,
+    "replacement": "இர்ருகு"
+  },
+  "iruken": {
+    "enabled": true,
+    "replacement": "இர்ருகென்"
+  },
+  "irukken": {
+    "enabled": true,
+    "replacement": "இருக்கேன்"
+  },
+  "iruku": {
+    "enabled": true,
+    "replacement": "இர்ருகு"
+  },
+  "naan": {
+    "enabled": true,
+    "replacement": "நான்"
+  },
+  "naanga": {
+    "enabled": true,
+    "replacement": "நாங்க"
+  },
+  "naliki": {
+    "enabled": true,
+    "replacement": "நாழிக்கி"
+  },
+  "nee": {
+    "enabled": true,
+    "replacement": "நீ"
+  },
+  "neenga": {
+    "enabled": true,
+    "replacement": "நீங்க"
+  },
+  "neenge": {
+    "enabled": true,
+    "replacement": "நீன்கே"
+  },
+  "nethiki": {
+    "enabled": true,
+    "replacement": "நேதிகி"
+  },
+  "panindu": {
+    "enabled": true,
+    "replacement": "பண்ணிண்டு"
+  },
+  "pannindu": {
+    "enabled": true,
+    "replacement": "பண்ணிண்டு"
+  },
+  "panriya": {
+    "enabled": true,
+    "replacement": "பண்ணரியா"
+  },
+  "poringe": {
+    "enabled": true,
+    "replacement": "போரிங்கே"
+  },
+  "varinge": {
+    "enabled": true,
+    "replacement": "வறிங்கே"
+  },
+  "varuvange": {
+    "enabled": true,
+    "replacement": "வருவங்கே"
+  },
+  "veetile": {
+    "enabled": true,
+    "replacement": "வீட்டிலே"
+  },
+  "veetle": {
+    "enabled": true,
+    "replacement": "வீட்டிலே"
+  },
+
+  
+}
