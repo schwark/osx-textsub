@@ -59,7 +59,7 @@
     "enabled": null,
     "replacement": "⅞"
   },
-   "npl": {
+  "npl": {
     "enabled": true,
     "replacement": "/nowplaying"
   }

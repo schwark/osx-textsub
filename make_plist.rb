@@ -19,7 +19,7 @@ def get_template()
             <key>replace</key>
             <string><%= @item['code'] %></string>
             <key>with</key>
-            <string><%= @item['unicode'] %></string>
+            <string><%=h @item['unicode'] %></string>
           </dict>
         <% end %>
       </array>
@@ -38,7 +38,7 @@ def get_yosemite_template()
           <key>phrase</key>
           <string><%= @item['unicode'] %></string>
           <key>shortcut</key>
-          <string><%= @item['code'] %></string>
+          <string><%=h @item['code'] %></string>
         </dict>
       <% end %>
       </array>
@@ -82,7 +82,7 @@ class TextReplaceList
 end
 
 Dir.entries(".").each do |filename|
-  next if not filename.include?(".json")
+  next if not filename.end_with?(".json")
   list = TextReplaceList.new(get_items(filename), get_template)
   list.save(File.join(File.dirname(__FILE__), filename+'_NSUserReplacementItems.plist'))
 
