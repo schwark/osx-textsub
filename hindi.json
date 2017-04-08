@@ -7283,6 +7283,14 @@
     "enabled": true,
     "replacement": "ठरकी"
   },
+  "parivar": {
+    "enabled": true,
+    "replacement": "परिवार"
+  },
+  "sahit": {
+    "enabled": true,
+    "replacement": "सहित"
+  },
   "saikdon": {
     "enabled": true,
     "replacement": "सैकड़ों"

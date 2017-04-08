@@ -1,0 +1,116 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+      <array>
+                <dict>
+          <key>phrase</key>
+          <string>Thanks for the intro. (moving to bcc to spare your inbox)</string>
+          <key>shortcut</key>
+          <string>bccd</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>After much research and discussion, we have decided to bow out of this round.</string>
+          <key>shortcut</key>
+          <string>bowo</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>could you please </string>
+          <key>shortcut</key>
+          <string>cyp</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Great to e-meet you! </string>
+          <key>shortcut</key>
+          <string>emt</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>If in the meanwhile I can be helpful in any other way as you build this business, please don't hesitate to ping me.</string>
+          <key>shortcut</key>
+          <string>hlp</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>If you are up for it, </string>
+          <key>shortcut</key>
+          <string>ifup</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Looking forward to it! </string>
+          <key>shortcut</key>
+          <string>lf</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Happy to chat on the phone if you would like.. I am sure you will prove my research and conclusions wrong and I am hoping you will still let us see the next round :)</string>
+          <key>shortcut</key>
+          <string>nxtr</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>sounds good</string>
+          <key>shortcut</key>
+          <string>sg</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Sylvie, could you please help setup? Thanks..  </string>
+          <key>shortcut</key>
+          <string>shlp</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Sylvie can work with you to help us find a time that works for everyone. </string>
+          <key>shortcut</key>
+          <string>sila</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Sylvie on my side can help us find a time that works for everyone. </string>
+          <key>shortcut</key>
+          <string>silb</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Sylvie (copied) can help us find a time that works for everyone. </string>
+          <key>shortcut</key>
+          <string>silc</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Would love to learn more about what you all are up to! </string>
+          <key>shortcut</key>
+          <string>wla</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Would love to learn more. </string>
+          <key>shortcut</key>
+          <string>wll</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Would love to </string>
+          <key>shortcut</key>
+          <string>wlt</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>Would love to learn more about you are up to! </string>
+          <key>shortcut</key>
+          <string>wlu</string>
+        </dict>
+              <dict>
+          <key>phrase</key>
+          <string>I will let the two of you take it from here. Please feel free to move me to</string>
+          <key>shortcut</key>
+          <string>twobcc</string>
+        </dict>
+            </array>
+    </plist>
+  
