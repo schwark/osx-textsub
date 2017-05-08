@@ -7294,5 +7294,17 @@
   "saikdon": {
     "enabled": true,
     "replacement": "सैकड़ों"
-  }
+  },
+  "hasi": {
+    "enabled": true,
+    "replacement": "हँसी"
+  },
+  "hass": {
+    "enabled": true,
+    "replacement": "हँस"
+  },
+  "rakhe": {
+    "enabled": true,
+    "replacement": "रखे"
+  },
 }
