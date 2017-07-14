@@ -84,7 +84,7 @@ end
 Dir.entries(".").each do |filename|
   next if not filename.end_with?(".json")
   list = TextReplaceList.new(get_items(filename), get_template)
-  list.save(File.join(File.dirname(__FILE__), filename+'_NSUserReplacementItems.plist'))
+  #list.save(File.join(File.dirname(__FILE__), filename+'_NSUserReplacementItems.plist'))
 
   yosemite_list = TextReplaceList.new(get_items(filename), get_yosemite_template)
   yosemite_list.save(File.join(File.dirname(__FILE__), filename+'_TextReplaceList.plist'))
