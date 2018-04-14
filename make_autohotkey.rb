@@ -7,30 +7,11 @@ require 'rubygems'
 require 'json'
 
 def get_template()
-  %{
+%{\uFEFF
 <% for @item in @items %>
 ::<%= @item['code'] %>::<%=h @item['unicode'] %>\r
 <% end %>
-  }
-end
-
-def get_yosemite_template()
-  %{
-    <?xml version="1.0" encoding="UTF-8"?>
-    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-    <plist version="1.0">
-      <array>
-        <% for @item in @items %>
-        <dict>
-          <key>phrase</key>
-          <string><%= @item['unicode'] %></string>
-          <key>shortcut</key>
-          <string><%=h @item['code'] %></string>
-        </dict>
-      <% end %>
-      </array>
-    </plist>
-  }
+}
 end
 
 def get_items(filename)
@@ -68,8 +49,18 @@ class TextReplaceList
 
 end
 
+all = true
+items = []
 Dir.entries(".").each do |filename|
   next if not filename.end_with?(".json")
-  list = TextReplaceList.new(get_items(filename), get_template)
-  list.save(File.join(File.dirname(__FILE__), filename+'.ahk'))
+  items = items + get_items(filename)
+  if not all
+    list = TextReplaceList.new(items, get_template)
+    list.save(File.join(File.dirname(__FILE__), filename+'.ahk'))
+    items = []
+  end
+end
+if all
+  list = TextReplaceList.new(items, get_template)
+  list.save(File.join(File.dirname(__FILE__), 'allitems.ahk'))
 end
